@@ -1,0 +1,333 @@
+{
+ "topics": {
+  "intro": {
+   "title": "Okwu mmeghe banyere Nchekwa Ịntanetị",
+   "summary": "Ihe nchekwa ịntanetị bụ, ihe mere o ji metụta onye ọ bụla, na omume dị mfe nke na-egbochi ọtụtụ mwakpo.",
+   "takeaways": [
+    "Onye ọ bụla nwere ike ịbụ ebumnuche",
+    "Ọtụtụ mwakpo na-eduhie mmadụ, ọ bụghị kọmputa",
+    "Obere omume na-egbochi ọtụtụ mwakpo"
+   ]
+  },
+  "passwords": {
+   "title": "Nchekwa Paswọọdụ",
+   "summary": "Mepụta paswọọdụ ndị siri ike ma pụrụ iche, jiri onye njikwa paswọọdụ ma gbanye nkwenye nzọụkwụ abụọ.",
+   "takeaways": [
+    "Ogologo na nke pụrụ iche karịa mkpụmkpụ dị mgbagwoju anya",
+    "Mgbaji otu saịtị ekwesịghị imeghe akaụntụ gị niile",
+    "2FA bụ nchebe gị. Ekekọrịtala koodu ya"
+   ]
+  },
+  "phishing": {
+   "title": "Phishing na Nchekwa Email",
+   "summary": "Mata email, SMS na njikọ ụgha, ma mara ihe ị ga-eme ma ọ bụrụ na ị pịara.",
+   "takeaways": [
+    "Ịkụ ọsọ + njikọ + ịrịọ nzuzo bụ ọkọlọtọ uhie",
+    "Gaa na ngwa gọọmentị, ejila njikọ ahụ",
+    "Ọ bụrụ na ị pịara, gbanwee paswọọdụ ma gwa ụlọ akụ gị"
+   ]
+  },
+  "social-engineering": {
+   "title": "Aghụghọ Mmekọrịta",
+   "summary": "Otu ndị mwakpo si eji ntụkwasị obi, egwu na ịkụ ọsọ, na otu esi ejigide uche gị.",
+   "takeaways": [
+    "Ndị mwakpo na-elekwasị anya n'mmetụta, ọ bụghị igwe",
+    "Nrụgide na nzuzo bụ ihe ịrịba ama ịdọ aka ná ntị",
+    "Nyochaa site n'ụzọ ọzọ i kwenyere na ya"
+   ]
+  },
+  "scams": {
+   "title": "Aghụghọ n'Ịntanetị na Mgbochi",
+   "summary": "Mata itinye ego ụgha, aghụghọ ịkwụ ụgwọ tupu, ụlọ ahịa ụgha, ngwa ego mgbazinye na aghụghọ ịhụnanya.",
+   "takeaways": [
+    "Ịkụ ọsọ + nkwa ego dị mfe bụ ịdọ aka ná ntị",
+    "Ekwụla ụgwọ iji nweta ihe",
+    "Kọọrọ ngwa ngwa. Ọsọ nwere ike ịzọpụta ego gị"
+   ]
+  },
+  "mobile": {
+   "title": "Nchekwa Ngwaọrụ Mkpanaka",
+   "summary": "Chebe ekwentị gị site na mkpọchi, mmelite, ngwa dị nchebe na ikike ziri ezi.",
+   "takeaways": [
+    "Ekwentị gị bụ ụlọ akụ. Kpọchie ya",
+    "Obere ikike pụtara obere ihe egwu",
+    "Ịfụ netwọk mberede nwere ike ịbụ ịdọ aka ná ntị mgbanwe SIM"
+   ]
+  },
+  "browsing": {
+   "title": "Nchekwa Ịntanetị na Nchọgharị",
+   "summary": "Chọgharịa n'udo: lelee adreesị, zere ibudata dị ize ndụ ma ghọta ihe HTTPS pụtara n'ezie.",
+   "takeaways": [
+    "Saịtị n'ezie bụ akụkụ tupu slash mbụ",
+    "HTTPS = ezoro ezo, ọ bụghị n'ezie ikwu eziokwu",
+    "Windo na-atụ egwu na-abụkarị aghụghọ"
+   ]
+  },
+  "social-media": {
+   "title": "Nchekwa Mgbasa Ozi Mmekọrịta",
+   "summary": "Kpọchie akaụntụ gị, kekọrịta obere ma zere izu akaụntụ na Facebook, Instagram, WhatsApp na ndị ọzọ.",
+   "takeaways": [
+    "Enwere ike iji akaụntụ gị duhie ndị enyi gị",
+    "Kekọrịta obere, chebe ọtụtụ",
+    "Ekekọrịtala koodu nkwenye"
+   ]
+  },
+  "privacy": {
+   "title": "Nzuzo Data na Nchebe",
+   "summary": "Ghọta data nkeonwe gị, ikike gị na otu esi ekekọrịta naanị ihe dị mkpa.",
+   "takeaways": [
+    "Data gị dị oke ọnụ. Kekọrịta ya n'ebumnuche",
+    "Jụọ ihe mere a chọrọ ya na otu a ga-esi jiri ya",
+    "Iwu na-enye gị ikike. Mụta ha"
+   ]
+  },
+  "malware": {
+   "title": "Ransomware na Malware",
+   "summary": "Ihe ngwanrọ ọjọọ bụ, otu o si agbasa na otu ndabere si emeri ransomware.",
+   "takeaways": [
+    "Ọtụtụ malware na-abata site n'aghụghọ, ọ bụghị amaghị ama",
+    "Ndabere bụ azịza kacha mma maka ransomware",
+    "Ọ bụrụ na e metọọ gị, pụọ n'ịntanetị ma chọọ enyemaka"
+   ]
+  },
+  "network": {
+   "title": "Nchekwa Netwọk",
+   "summary": "Chebe router gị, ghọta firewall na otu esi eji VPN n'amamihe.",
+   "takeaways": [
+    "Ndabara bụ ihe a maara. Gbanwee ha",
+    "Firewall na-egbochi, VPN na-ezochi",
+    "Kewaa ndị ọbịa na ngwaọrụ gị isi"
+   ]
+  },
+  "wifi": {
+   "title": "Nchekwa Wi-Fi",
+   "summary": "Nọrọ n'udo na Wi-Fi ọha na eze na nke ụlọ, ma zere hotspot ụgha.",
+   "takeaways": [
+    "Ọ bụghị “Free WiFi” niile bụ nke n'ezie",
+    "Jiri data ekwentị maka ihe dị mkpa",
+    "Paswọọdụ siri ike n'ụlọ"
+   ]
+  },
+  "identity-theft": {
+   "title": "Igbochi Izu Njirimara",
+   "summary": "Chebe kaadị njirimara na data nkeonwe, mata ihe ịrịba ama mbụ ma mee ngwa ngwa.",
+   "takeaways": [
+    "Ozi njirimara gị dị oke ọnụ",
+    "Lelee nkwupụta ụlọ akụ na ọkwa mgbe niile",
+    "Mee ngwa ngwa ma debe ihe ndekọ"
+   ]
+  },
+  "students": {
+   "title": "Nchekwa Ịntanetị maka Ụmụ Akwụkwọ",
+   "summary": "Omume nchekwa maka ọnụ ụzọ ụlọ akwụkwọ, kọmputa nkekọrịta, mgbasa ozi mmekọrịta na mmụta ịntanetị.",
+   "takeaways": [
+    "Email ụlọ akwụkwọ gị bụ igodo isi",
+    "Ụgwọ agụmakwụkwọ n'ezie anaghị akwụ ndị na-etinye akwụkwọ ụgwọ",
+    "Pụọ na ngwaọrụ nkekọrịta"
+   ]
+  },
+  "business": {
+   "title": "Nchekwa Ịntanetị maka Obere Azụmahịa",
+   "summary": "Usoro dị mfe ma dị ọnụ ala maka azụmahịa iji chebe akaụntụ, ịkwụ ụgwọ, ndị ahịa na data.",
+   "takeaways": [
+    "Ndị bụ isi na-egbochi ọtụtụ mwakpo",
+    "Chọpụta mgbanwe ozi ụlọ akụ site na ekwentị",
+    "Ndabere na njikwa nnweta na-echebe azụmahịa"
+   ]
+  },
+  "organisations": {
+   "title": "Mmụta Nchekwa Ịntanetị maka Òtù",
+   "summary": "Wuo omenala nchekwa: ọzụzụ, ịkọ akụkọ, iwu nnweta na atụmatụ mbọ mwakpo.",
+   "takeaways": [
+    "Ndị mmadụ so na nchebe",
+    "Mee ka ịkọ akụkọ dị mfe ma dịrị mma",
+    "Nwaa atụmatụ mbọ mwakpo gị"
+   ]
+  },
+  "payments": {
+   "title": "Ịkwụ Ụgwọ Dijitalụ n'Udo",
+   "summary": "Chebe kaadị gị, nzipụ ego, mobile money na iji POS ma ọ bụ ATM.",
+   "takeaways": [
+    "Ekekọrịtala PIN, OTP ma ọ bụ CVV",
+    "Chọpụta akaụntụ tupu izipu ego",
+    "Kọọrọ mwepụ ego na-enyo enyo ozugbo"
+   ]
+  },
+  "ai": {
+   "title": "Ọgụgụ Isi Nkịtị na Nchekwa Ịntanetị",
+   "summary": "Otu AI si enyere ndị omekome na ndị nchekwa aka, deepfake, myiri olu na iji ngwa AI n'udo.",
+   "takeaways": [
+    "AI na-eme ka aghụghọ pụta ihe ka kwenye",
+    "Chọpụta ichè olu na vidiyo mberede",
+    "Etinyela nzuzo na ngwa AI"
+   ]
+  }
+ },
+ "tips": {
+  "tip-001": {
+   "text": "Kwụsị tupu ị pịa. Ịkụ ọsọ bụ ngwa ọkacha mmasị onye aghụghọ."
+  },
+  "tip-002": {
+   "text": "Tinye mmelite. Ha na-emezi oghere nchekwa ndị mwakpo na-eji."
+  },
+  "tip-005": {
+   "text": "Jiri ahịrịokwu ogologo nke okwu na-enweghị njikọ kama paswọọdụ mkpụmkpụ dị mgbagwoju anya."
+  },
+  "tip-008": {
+   "text": "Ekekọrịtala koodu otu oge (OTP) na onye ọ bụla, ọ bụrụgodị na ha na-ekwu na ha si n'ụlọ akụ gị."
+  },
+  "tip-009": {
+   "text": "Ekwerela njikọ dị n'ozi. Mepee ngwa gọọmentị ma ọ bụ dee adreesị n'onwe gị."
+  },
+  "tip-012": {
+   "text": "Ụlọ akụ n'ezie anaghị arịọ PIN, OTP ma ọ bụ paswọọdụ gị site na SMS, oku ma ọ bụ chat."
+  },
+  "tip-013": {
+   "text": "Jiri mkpọchi ihuenyo siri ike ma gbanye find-my-device."
+  },
+  "tip-015": {
+   "text": "Ọ bụrụ na ekwentị gị furu netwọk niile na mberede, kpọọ onye na-enye gị netwọk. O nwere ike ịbụ mgbanwe SIM."
+  },
+  "tip-017": {
+   "text": "Gbanye nkwenye nzọụkwụ abụọ na WhatsApp ma ekekọrịtala koodu ya nke mkpụrụ ọgụgụ 6."
+  },
+  "tip-019": {
+   "text": "Ọ bụrụ na enyi na-arịọ ego na mberede, kpọọ ya mbụ. Enwere ike izuru akaụntụ ya."
+  },
+  "tip-021": {
+   "text": "Jiri ngwa ụlọ akụ gị gọọmentị ma ọ bụ nọmba dị na kaadị gị. Ọ bụghị nọmba dị n'ozi."
+  },
+  "tip-022": {
+   "text": "Lelee aha onye natara tupu ịkwado nzipụ ego."
+  },
+  "tip-025": {
+   "text": "Kekọrịta naanị data nkeonwe dị mkpa n'ezie."
+  },
+  "tip-026": {
+   "text": "Dee ebumnuche na ụbọchị n'elu foto kaadị njirimara gị."
+  },
+  "tip-029": {
+   "text": "Lelee adreesị weebụsaịtị tupu ịdee paswọọdụ. Saịtị n'ezie bụ akụkụ tupu slash mbụ."
+  },
+  "tip-030": {
+   "text": "Windo na-atụ egwu (“ekwentị gị nwere nje”) fọrọ nke nta ka ọ bụrụ aghụghọ mgbe niile. Mechie ha."
+  },
+  "tip-033": {
+   "text": "Ọ bụrụ na ọ kwere nkwa uru dị elu na-enweghị ize ndụ, ọ bụ aghụghọ."
+  },
+  "tip-034": {
+   "text": "Ekwụla ụgwọ iji nweta onyinye, ọrụ, ego mgbazinye ma ọ bụ agụmakwụkwọ."
+  }
+ },
+ "questions": {
+  "q-intro-05": {
+   "q": "Ị hụrụ ozi na-atụ egwu banyere akaụntụ gị. Gịnị bụ nzọụkwụ mbụ kacha mma?",
+   "options": [
+    "Pịa njikọ ngwa ngwa tupu oge agafee",
+    "Kwụsị, wee lelee site na ngwa gọọmentị ma ọ bụ weebụsaịtị i meghere n'onwe gị",
+    "Ziga ya onye ọ bụla n'ime kọntaktị gị"
+   ],
+   "explanation": "Ndị mwakpo na-adabere na ịkụ gị ọsọ. Mee nwayọọ ma lelee site n'ụzọ i kwenyere na ya."
+  },
+  "q-pw-03": {
+   "q": "Gịnị mere iji otu paswọọdụ n'ọtụtụ akaụntụ ji dị ize ndụ?",
+   "options": [
+    "Ọ na-eme ka paswọọdụ ogologo",
+    "Ọ bụrụ na e gbajie otu saịtị, ndị mwakpo nwere ike ịnwale ya n'akaụntụ gị ndị ọzọ",
+    "Ọ nweghị ize ndụ"
+   ],
+   "explanation": "A na-anwale paswọọdụ ndị ekpughere n'saịtị ndị ọzọ n'onwe ya. Paswọọdụ pụrụ iche na-ebelata mmebi."
+  },
+  "q-pw-05": {
+   "q": "Onye na-ekwu na ya bụ nkwado rịọrọ koodu otu oge e zigara gị. Gịnị ka i kwesịrị ime?",
+   "options": [
+    "Nye ya iji gosi na ọ bụ gị",
+    "Jụ. Nkwado n'ezie anaghị achọ koodu gị",
+    "Zipu ọkara ya"
+   ],
+   "explanation": "Koodu otu oge bụ igodo akaụntụ gị. Onye ọ bụla na-arịọ ya na-agbalị ịnara akaụntụ gị."
+  },
+  "q-ph-01": {
+   "q": "Ozi kwuru: “A ga-egbochi akaụntụ gị n'ime nkeji 30. Kwado BVN na OTP na bit.ly/xyz.” Gịnị bụ azịza kacha mma?",
+   "options": [
+    "Pịa njikọ ma kwado ngwa ngwa",
+    "Leghara njikọ anya ma kpọtụrụ ụlọ akụ gị site na ngwa ya gọọmentị ma ọ bụ nọmba ya",
+    "Zaghachi naanị BVN"
+   ],
+   "explanation": "Ụlọ akụ anaghị arịọ OTP ma ọ bụ nkọwa zuru ezu site na njikọ SMS. Kpọtụrụ ụlọ akụ site n'ụzọ gọọmentị.",
+   "scenario": null
+  },
+  "q-ph-04": {
+   "q": "Ị pịara njikọ na-enyo enyo ma dee paswọọdụ gị. Gịnị ka i kwesịrị ime mbụ?",
+   "options": [
+    "Emela ihe ọ bụla",
+    "Gbanwee paswọọdụ ahụ ozugbo na saịtị n'ezie, gbanye 2FA ma lelee ihe omume akaụntụ gị",
+    "Hichapụ akaụntụ email gị"
+   ],
+   "explanation": "Mee ngwa ngwa: gbanwee paswọọdụ (na ebe ọ bụla i jiri ya), gbanye 2FA ma lelee ihe omume nso nso a."
+  },
+  "q-se-02": {
+   "q": "Onye na-akpọ oku kwuru na ọ si n'ụlọ ọrụ netwọk gị ma chọrọ PIN gị “ka o dozie nsogbu”. Gịnị ka i kwesịrị ime?",
+   "options": [
+    "Nye ya, o dị ka ọkachamara",
+    "Gbanyụọ oku ma kpọọ nọmba gọọmentị n'onwe gị",
+    "Gwa ya ka ọ zitere gị njikọ"
+   ],
+   "explanation": "Ekekọrịtala PIN ma ọ bụ koodu n'oku e kpọrọ gị. Kpọghachi site na nọmba i chọtara n'onwe gị."
+  },
+  "q-sc-02": {
+   "q": "Ị natara ozi na ị merie lọtrị i na-abanyeghị. Ha na-arịọ “ụgwọ ntọhapụ”. Gịnị bụ nke a?",
+   "options": [
+    "Aghụghọ ịkwụ ụgwọ tupu",
+    "Onyinye n'ezie",
+    "Ịkwụghachi ụlọ akụ"
+   ],
+   "explanation": "Ọ bụrụ na ị ga-akwụ ụgwọ iji nweta onyinye, ọ bụ aghụghọ."
+  },
+  "q-sc-07": {
+   "q": "Mgbasa ozi ọrụ na-arịọ gị ịkwụ ụgwọ iji jide ọnọdụ ahụ. Gịnị bụ ihe kacha mma ime?",
+   "options": [
+    "Kwụọ ngwa ngwa tupu ndị ọzọ",
+    "Pụọ. Ndị were ndị ọrụ n'ezie anaghị akwụ ndị na-etinye akwụkwọ ụgwọ",
+    "Gwa enyi ka ọ kwụọkwa"
+   ],
+   "explanation": "Ịrịọ ụgwọ maka ọrụ bụ aghụghọ were ndị ọrụ a na-ahụkarị."
+  },
+  "q-mo-04": {
+   "q": "Gịnị bụ aghụghọ mgbanwe SIM?",
+   "options": [
+    "Onye omekome na-akwaga nọmba gị na SIM ya iji nata oku na koodu gị",
+    "Ịgbanwe netwọk ekwentị gị",
+    "Ịzụta SIM nke abụọ"
+   ],
+   "explanation": "Ozugbo ha na-achịkwa nọmba gị, ha nwere ike ịnata OTP gị. Kpọtụrụ onye na-enye netwọk ozugbo ma ọ bụrụ na SIM gị kwụsịrị ịrụ ọrụ na mberede."
+  },
+  "q-sm-04": {
+   "q": "WhatsApp zigara gị koodu nkwenye nke mkpụrụ ọgụgụ 6 i rịọghị. Gịnị ka nke a pụtara?",
+   "options": [
+    "Mmadụ nwere ike ịgbalị ide nọmba gị. Ekekọrịtala koodu ahụ",
+    "Ị merie onyinye",
+    "Ị ga-aza ya na koodu"
+   ],
+   "explanation": "Ịkekọrịta ya na-enye onye mwakpo ohere ịnara WhatsApp gị. Gbanye nkwenye nzọụkwụ abụọ."
+  },
+  "q-pm-01": {
+   "q": "Onye nwere ike iji ikike rịọ PIN ma ọ bụ OTP kaadị gị?",
+   "options": [
+    "Onweghị onye. Ekekọrịtala ha",
+    "Ụlọ akụ site na ekwentị",
+    "Onye na-ere ahịa n'ụlọ ahịa"
+   ],
+   "explanation": "PIN na OTP gị bụ nke gị naanị."
+  },
+  "q-pm-03": {
+   "q": "Ị nwetara ọkwa mwepụ ego maka azụmahịa i meghị. Gịnị ka i kwesịrị ime mbụ?",
+   "options": [
+    "Kpọtụrụ ụlọ akụ gị ozugbo site n'ụzọ gọọmentị ma gbochie kaadị ahụ",
+    "Chere otu izu",
+    "Zaghachi SMS ahụ"
+   ],
+   "explanation": "Ọsọ dị mkpa. Jiri ngwa ụlọ akụ gọọmentị ma ọ bụ nọmba ya."
+  }
+ }
+}

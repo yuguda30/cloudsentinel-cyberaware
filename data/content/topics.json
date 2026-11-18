@@ -1,0 +1,924 @@
+[
+ {
+  "id": "intro",
+  "icon": "shield",
+  "minutes": 6,
+  "title": "Introduction to Cybersecurity",
+  "summary": "What cybersecurity is, why it matters to everyone, and the simple habits that block most attacks.",
+  "intro": "Cybersecurity means protecting your phone, computer, accounts and information from people who want to steal, damage or misuse them. You don’t need to be technical. Most attacks succeed because someone was rushed or tricked, not because a hacker out-smarted a computer.",
+  "objectives": [
+   "Explain what cybersecurity is in plain words",
+   "Name the most common threats ordinary people face",
+   "Apply five basic habits that reduce your risk"
+  ],
+  "sections": [
+   {
+    "h": "Why it matters to you",
+    "p": [
+     "Our lives now run through phones: banking, school, work, chats and shopping. That makes your accounts valuable to criminals, whether you are a student, a trader or a company manager.",
+     "Attackers often choose easy targets over rich ones. Good basic habits make you a harder target."
+    ]
+   },
+   {
+    "h": "The three goals of security",
+    "p": [
+     "Security experts talk about three goals: confidentiality (only the right people see your information), integrity (it isn’t changed without permission) and availability (you can use it when you need it).",
+     "Losing access to your WhatsApp account, having your savings drained, or having a stranger read your messages are each a failure of one of these goals."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: a rushed tap",
+   "text": "Ada receives an SMS saying her account will be blocked. She taps the link and enters her details on a page that looks right. Within minutes her account is emptied. The page was fake, and the only thing that would have stopped it was pausing to check."
+  },
+  "prevention": [
+   "Use a different strong password for every important account",
+   "Turn on two-factor authentication (2FA)",
+   "Install updates for your phone and apps",
+   "Only install apps from official stores",
+   "Pause before you click, pay or share a code"
+  ],
+  "takeaways": [
+   "Everyone is a possible target",
+   "Most attacks trick people, not computers",
+   "Small habits stop most attacks"
+  ],
+  "related": [
+   "phishing-awareness",
+   "password-security"
+  ],
+  "videoCategory": "awareness",
+  "order": 1,
+  "quizTopic": "intro"
+ },
+ {
+  "id": "passwords",
+  "icon": "key-round",
+  "minutes": 7,
+  "title": "Password Security",
+  "summary": "Build strong, unique passwords, use a password manager and turn on two-factor authentication.",
+  "intro": "A password is the key to your digital life. Weak or reused passwords are one of the easiest ways for criminals to get in. The good news: strong passwords are simple to create once you know how.",
+  "objectives": [
+   "Create long, hard-to-guess passphrases",
+   "Understand why you must never reuse passwords",
+   "Set up 2FA on your most important accounts"
+  ],
+  "sections": [
+   {
+    "h": "What makes a password strong",
+    "p": [
+     "Length beats complexity. A passphrase made of several unrelated words (for example, four random words and a number) is both strong and easier to remember than a short jumble of symbols.",
+     "Avoid names, birthdays, phone numbers and common words such as “password” or “123456”. Attackers try these first."
+    ]
+   },
+   {
+    "h": "Unique passwords and managers",
+    "p": [
+     "When a website is breached, criminals try the leaked passwords on other sites. If you reuse a password, one leak can open many accounts.",
+     "A password manager creates and stores a different strong password for each account, so you only remember one master passphrase."
+    ]
+   },
+   {
+    "h": "Two-factor authentication",
+    "p": [
+     "2FA asks for a second proof, such as a code from an authenticator app, after your password. Even if someone steals your password, they still can’t get in.",
+     "Never share a one-time code with anyone. Genuine support teams do not ask for it."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: weak vs strong",
+   "text": "Weak: password123 or your date of birth. Stronger: a passphrase like river-lantern-maize-torch-47, kept in a password manager and protected with 2FA."
+  },
+  "prevention": [
+   "Use at least 12 characters, longer for email and banking",
+   "Never reuse passwords across accounts",
+   "Use a reputable password manager",
+   "Enable 2FA, preferring an authenticator app or security key over SMS",
+   "Change a password immediately if you suspect a leak"
+  ],
+  "takeaways": [
+   "Long and unique beats short and complex",
+   "One leak shouldn’t open all your accounts",
+   "2FA is your safety net. Never share the codes"
+  ],
+  "related": [
+   "password-security"
+  ],
+  "videoCategory": "passwords",
+  "order": 2,
+  "quizTopic": "passwords"
+ },
+ {
+  "id": "phishing",
+  "icon": "fish",
+  "minutes": 8,
+  "title": "Phishing and Email Security",
+  "summary": "Recognise fake emails, SMS and links, and know exactly what to do if you clicked.",
+  "intro": "Phishing is when criminals pretend to be a bank, a company or someone you know to trick you into revealing information or clicking something harmful. It arrives by email, SMS (smishing), phone calls (vishing) and social media messages.",
+  "objectives": [
+   "Spot the common signs of phishing",
+   "Check links and sender addresses safely",
+   "Respond correctly if you clicked or shared details"
+  ],
+  "sections": [
+   {
+    "h": "Common warning signs",
+    "p": [
+     "Urgency or threats (“your account will be blocked”), requests for passwords, PINs, BVN or OTPs, shortened or odd-looking links, generic greetings, and sender addresses that almost match the real company.",
+     "Messages can look perfect. Don’t rely on spelling mistakes alone, because modern scams are often well written."
+    ]
+   },
+   {
+    "h": "Checking before you act",
+    "p": [
+     "Don’t use the link in the message. Open the official app or type the website address yourself.",
+     "Check the full sender address, not just the display name. On a computer, hover over links to preview where they go. On a phone, press and hold."
+    ]
+   },
+   {
+    "h": "If you clicked",
+    "p": [
+     "Don’t panic. Change the password for that account straight away (and anywhere you reused it), turn on 2FA, check recent activity and tell your bank if money or card details were involved."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: fake bank SMS",
+   "text": "“ALERT: ₦150,000 debit on your account. Not you? Your account will be blocked in 30 minutes. Confirm your BVN and OTP at bit.ly/secure-acct.” This message uses fear, a deadline, a hidden link and a request for secrets, so it has four red flags."
+  },
+  "prevention": [
+   "Never share OTPs, PINs or passwords by message or call",
+   "Open the official app or type the address yourself",
+   "Treat urgent messages with extra suspicion",
+   "Report phishing to your bank or email provider",
+   "Keep 2FA on your email account, since it unlocks everything else"
+  ],
+  "takeaways": [
+   "Urgency + a link + a request for secrets is a red flag",
+   "Go to the official app, don’t use the link",
+   "If you clicked, change passwords and tell your bank"
+  ],
+  "related": [
+   "phishing-awareness",
+   "fake-bank-alerts"
+  ],
+  "videoCategory": "phishing",
+  "order": 3,
+  "quizTopic": "phishing"
+ },
+ {
+  "id": "social-engineering",
+  "icon": "users",
+  "minutes": 6,
+  "title": "Social Engineering",
+  "summary": "How attackers manipulate trust, fear and urgency, and how to keep your head.",
+  "intro": "Social engineering is the art of manipulating people rather than computers. Attackers pretend to be someone you trust and use emotions such as fear, greed, kindness or urgency to make you act without thinking.",
+  "objectives": [
+   "Recognise common manipulation tactics",
+   "Understand pretexting, baiting and tailgating",
+   "Use a simple verify-first habit"
+  ],
+  "sections": [
+   {
+    "h": "Common tactics",
+    "p": [
+     "Pretexting: inventing a believable story, such as a caller claiming to be from your telecom company. Baiting: leaving a tempting item, like a free USB drive. Tailgating: following someone through a secured door.",
+     "Impersonation of bosses, relatives or officials is especially common because we want to be helpful."
+    ]
+   },
+   {
+    "h": "Pressure is the signal",
+    "p": [
+     "Real organisations allow you time to check. Pressure to act now, keep it secret, or skip normal steps is the biggest sign something is wrong."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the “boss” on WhatsApp",
+   "text": "A message from your manager’s picture asks you to buy airtime vouchers urgently and send the codes. The number is new. Calling your manager on their known number shows it’s fake."
+  },
+  "prevention": [
+   "Verify requests through a second channel you already trust",
+   "Be wary of urgency, secrecy and unusual payment methods",
+   "Don’t plug in unknown USB drives",
+   "Challenge unknown visitors politely",
+   "Share less personal information publicly"
+  ],
+  "takeaways": [
+   "Attackers target emotions, not machines",
+   "Pressure and secrecy are warning signs",
+   "Verify through a separate trusted channel"
+  ],
+  "related": [
+   "social-media-security"
+  ],
+  "videoCategory": "awareness",
+  "order": 4,
+  "quizTopic": "social-engineering"
+ },
+ {
+  "id": "scams",
+  "icon": "triangle-alert",
+  "minutes": 8,
+  "title": "Online Scams and Fraud Prevention",
+  "summary": "Spot fake investments, advance-fee tricks, fake shops, loan apps and romance scams.",
+  "intro": "Online scams cost people money, trust and peace of mind. Scammers adapt quickly, but most schemes follow the same patterns: a promise that is too good, a reason to hurry and a request for money or information.",
+  "objectives": [
+   "Recognise the patterns behind common scams",
+   "Check a seller, offer or investor before paying",
+   "Know what to do if you’ve been scammed"
+  ],
+  "sections": [
+   {
+    "h": "Scams you may meet",
+    "p": [
+     "Fake investments promising guaranteed high returns; advance-fee scams (“pay a fee to receive a prize or job”); fake online shops; overpayment tricks; romance or impersonation scams; and predatory loan apps that misuse your contacts and photos."
+    ]
+   },
+   {
+    "h": "Checks before you pay",
+    "p": [
+     "Search for independent reviews, check the real business address and phone number, prefer payment methods that offer protection (such as pay-on-delivery), and be suspicious of anyone who pushes you off the platform or asks for gift cards or transfers to personal accounts.",
+     "Ask a trusted friend. Scammers hate second opinions."
+    ]
+   },
+   {
+    "h": "If it has happened",
+    "p": [
+     "Stop contact, tell your bank at once, keep screenshots and receipts, report to the platform and the relevant authorities, and warn friends. Being scammed is not shameful. It happens to careful people."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the job fee",
+   "text": "An advert for a “guaranteed” office job asks for a ₦10,000 registration fee. After payment, the contact disappears. Real employers do not charge you to hire you."
+  },
+  "prevention": [
+   "If it sounds too good to be true, it is",
+   "Never pay to receive a prize, loan, job or scholarship",
+   "Use regulated lenders and platforms",
+   "Check names and numbers before every transfer",
+   "Talk to someone before you pay"
+  ],
+  "takeaways": [
+   "Urgency + a promise of easy money is a warning",
+   "Never pay a fee to receive something",
+   "Report quickly. Speed can save your money"
+  ],
+  "related": [
+   "fake-bank-alerts",
+   "loan-apps"
+  ],
+  "videoCategory": "fraud",
+  "order": 5,
+  "quizTopic": "scams"
+ },
+ {
+  "id": "mobile",
+  "icon": "smartphone",
+  "minutes": 6,
+  "title": "Mobile Device Security",
+  "summary": "Protect your phone with locks, updates, safe apps and sensible permissions.",
+  "intro": "For many people, the phone is the main computer. It holds your messages, photos, banking apps and identity. A few settings make it much safer.",
+  "objectives": [
+   "Secure a phone with a strong lock and find-my-device",
+   "Choose apps and permissions carefully",
+   "Understand SIM swap fraud"
+  ],
+  "sections": [
+   {
+    "h": "Lock it and update it",
+    "p": [
+     "Use a strong PIN, password or biometric lock (avoid 1234 or 0000). Turn on find-my-device so you can locate, lock or erase a lost phone. Install system and app updates promptly because they fix security flaws."
+    ]
+   },
+   {
+    "h": "Apps and permissions",
+    "p": [
+     "Install apps only from your official app store. Free “modded” or cracked apps from links are a common source of malware. Check permissions: a flashlight does not need your contacts."
+    ]
+   },
+   {
+    "h": "SIM swap fraud",
+    "p": [
+     "In a SIM swap, a criminal convinces your network provider to move your number to their SIM, then receives your calls and OTP codes. Warning sign: your phone suddenly loses all signal. Contact your provider and bank immediately."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: odd permissions",
+   "text": "A photo-editing app asks to read your contacts and SMS. Neither is needed to edit photos, so deny them, or choose another app."
+  },
+  "prevention": [
+   "Use a strong screen lock and find-my-device",
+   "Update the system and apps",
+   "Install from official stores only",
+   "Review app permissions regularly",
+   "Protect your SIM with a PIN and watch for sudden loss of signal"
+  ],
+  "takeaways": [
+   "Your phone is a vault. Lock it",
+   "Fewer permissions means less risk",
+   "Sudden loss of signal can be a SIM swap warning"
+  ],
+  "related": [
+   "whatsapp-takeover"
+  ],
+  "videoCategory": "awareness",
+  "order": 6,
+  "quizTopic": "mobile"
+ },
+ {
+  "id": "browsing",
+  "icon": "globe",
+  "minutes": 6,
+  "title": "Internet and Browser Safety",
+  "summary": "Browse safely: check addresses, avoid risky downloads and understand what HTTPS really means.",
+  "intro": "The web is full of useful things, and some traps. Safe browsing is mostly about checking where you are and being careful about what you download.",
+  "objectives": [
+   "Read web addresses correctly",
+   "Understand what the padlock and HTTPS do and don’t mean",
+   "Avoid unsafe downloads and pop-ups"
+  ],
+  "sections": [
+   {
+    "h": "Read the address",
+    "p": [
+     "The part just before the first single slash is the real site. In “bank.example.com.secure-login.net”, the real site is secure-login.net. Look-alike spellings (“paypa1”) are used to trick you.",
+     "HTTPS means the connection is encrypted. It doesn’t guarantee the site is honest, because scam sites can use HTTPS too."
+    ]
+   },
+   {
+    "h": "Downloads and pop-ups",
+    "p": [
+     "Download software only from official sources. Be sceptical of pop-ups saying your device is infected, or telling you to update your browser. Close them and go to your settings yourself."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: fake update",
+   "text": "A banner says “Your browser is out of date. Click to update.” The file is malware. Real browsers update themselves through settings."
+  },
+  "prevention": [
+   "Check the address before entering any password",
+   "Keep the browser updated",
+   "Use official download sites",
+   "Don’t click pop-up alerts, close the tab",
+   "Consider a reputable ad blocker and browser safe-browsing protection"
+  ],
+  "takeaways": [
+   "The real site is the part before the first single slash",
+   "HTTPS = encrypted, not necessarily honest",
+   "Pop-ups that scare you are usually scams"
+  ],
+  "related": [
+   "safe-browsing"
+  ],
+  "videoCategory": "awareness",
+  "order": 7,
+  "quizTopic": "browsing"
+ },
+ {
+  "id": "social-media",
+  "icon": "message-circle",
+  "minutes": 6,
+  "title": "Social Media Security",
+  "summary": "Lock down your accounts, share less and avoid hijacking on Facebook, Instagram, WhatsApp and more.",
+  "intro": "Social media makes it easy to connect, and easy for criminals to study you, copy your identity or take over your account to scam your friends.",
+  "objectives": [
+   "Secure social and messaging accounts",
+   "Decide what is safe to post",
+   "Recognise account hijacking and fake profiles"
+  ],
+  "sections": [
+   {
+    "h": "Secure the account",
+    "p": [
+     "Use a unique password and 2FA on every social and messaging account. On WhatsApp, turn on two-step verification and never share the 6-digit registration code."
+    ]
+   },
+   {
+    "h": "Think before you post",
+    "p": [
+     "Don’t post boarding passes, ID cards, tickets, your full birth date, home address or real-time location. Use privacy settings to limit who sees your posts and contacts.",
+     "Fake profiles and cloned accounts are common. Check mutual contacts and be cautious with strangers and sudden money requests from “friends”."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the hijacked friend",
+   "text": "A friend’s account messages you: “Please help, I’m stranded, send ₦20,000.” Their account was taken over. Call them to check before you send anything."
+  },
+  "prevention": [
+   "Unique password + 2FA on every account",
+   "Turn on WhatsApp two-step verification",
+   "Review privacy settings every few months",
+   "Never share verification codes",
+   "Report and block impersonators"
+  ],
+  "takeaways": [
+   "Your account can be used to scam your friends",
+   "Share less, secure more",
+   "Never share verification codes"
+  ],
+  "related": [
+   "social-media-security",
+   "whatsapp-takeover"
+  ],
+  "videoCategory": "students",
+  "order": 8,
+  "quizTopic": "social-media"
+ },
+ {
+  "id": "privacy",
+  "icon": "eye",
+  "minutes": 7,
+  "title": "Data Privacy and Protection",
+  "summary": "Understand your personal data, your rights and how to share the minimum needed.",
+  "intro": "Your personal data, such as your name, phone number, BVN, NIN, photos and location, has value. Privacy means having a say in who collects it, why and what they do with it.",
+  "objectives": [
+   "Identify what counts as personal data",
+   "Share only what is necessary",
+   "Know that data protection laws give you rights"
+  ],
+  "sections": [
+   {
+    "h": "What to protect",
+    "p": [
+     "Identifiers (BVN, NIN, passport and ID numbers), contact details, financial information, health information, location and photos. The more of these a criminal holds, the easier it is to impersonate you."
+    ]
+   },
+   {
+    "h": "Share the minimum",
+    "p": [
+     "Before giving data, ask: does this organisation really need it, and how will it be used? Check privacy settings in apps, and review permissions regularly.",
+     "In Nigeria, the Nigeria Data Protection Act 2023 sets duties for organisations that handle personal data and gives individuals rights over it. Read the official guidance from the Nigeria Data Protection Commission for details."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the competition form",
+   "text": "A competition asks for your NIN “to verify you”. A genuine competition rarely needs it. Ask why, and decline if the reason isn’t clear."
+  },
+  "prevention": [
+   "Share only the data that is necessary",
+   "Mark ID copies with their purpose and date",
+   "Review app permissions and privacy settings",
+   "Use messaging apps with end-to-end encryption",
+   "Shred papers with personal details"
+  ],
+  "takeaways": [
+   "Your data has value. Share it deliberately",
+   "Ask why it’s needed and how it will be used",
+   "The law gives you rights. Learn them"
+  ],
+  "related": [],
+  "videoCategory": "privacy",
+  "order": 9,
+  "quizTopic": "privacy"
+ },
+ {
+  "id": "malware",
+  "icon": "bug",
+  "minutes": 7,
+  "title": "Ransomware and Malware",
+  "summary": "What malicious software is, how it spreads and how backups beat ransomware.",
+  "intro": "Malware is software designed to harm or spy on you. It includes viruses, spyware, adware and ransomware, which locks your files until you pay.",
+  "objectives": [
+   "Name the main types of malware",
+   "Know how malware commonly spreads",
+   "Prepare backups and respond to an infection"
+  ],
+  "sections": [
+   {
+    "h": "Types you should know",
+    "p": [
+     "Viruses and worms spread between devices. Spyware and keyloggers watch what you do. Adware floods you with ads. Ransomware encrypts files and demands payment. Trojans pretend to be useful software."
+    ]
+   },
+   {
+    "h": "How it spreads",
+    "p": [
+     "Unexpected attachments, cracked software, fake updates, malicious ads, infected USB drives and links in messages. Keeping software updated and downloading only from official sources prevents most infections."
+    ]
+   },
+   {
+    "h": "Backups beat ransomware",
+    "p": [
+     "Keep at least one backup separate from your main device (an external drive kept disconnected, or a cloud service with version history) and test that you can restore it. If you are infected, disconnect from the network and seek help rather than paying."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the free download",
+   "text": "A cracked copy of paid software installs a hidden program that records keystrokes. The “saving” costs the victim’s bank login."
+  },
+  "prevention": [
+   "Update the system, apps and browser",
+   "Download only from official sources",
+   "Don’t open unexpected attachments",
+   "Use reputable security software",
+   "Keep tested offline or cloud backups"
+  ],
+  "takeaways": [
+   "Most malware arrives through tricks, not magic",
+   "Backups are the best answer to ransomware",
+   "If infected, disconnect and get help"
+  ],
+  "related": [
+   "malware-awareness"
+  ],
+  "videoCategory": "awareness",
+  "order": 10,
+  "quizTopic": "malware"
+ },
+ {
+  "id": "network",
+  "icon": "network",
+  "minutes": 6,
+  "title": "Network Security",
+  "summary": "Secure your router, understand firewalls and use VPNs sensibly.",
+  "intro": "A network connects your devices to each other and to the internet. If the network is weak, everything on it is exposed.",
+  "objectives": [
+   "Secure a home or small-office router",
+   "Explain what firewalls and VPNs do",
+   "Segment guests from your main devices"
+  ],
+  "sections": [
+   {
+    "h": "Secure the router",
+    "p": [
+     "Change the default admin password and the Wi-Fi password, keep the router’s firmware updated, and disable features you don’t use. Default logins like admin/admin are public knowledge."
+    ]
+   },
+   {
+    "h": "Firewalls and VPNs",
+    "p": [
+     "A firewall filters traffic, blocking connections you didn’t ask for. A VPN encrypts your traffic between your device and the VPN provider, which helps on untrusted networks. It is not a magic shield, and you should choose reputable providers."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: default password",
+   "text": "A shop keeps the router’s factory login. Anyone nearby who guesses it can change settings or watch the traffic."
+  },
+  "prevention": [
+   "Change default router logins",
+   "Update router firmware",
+   "Use WPA3 or WPA2 with a long passphrase",
+   "Create a separate guest network",
+   "Turn off remote administration if unused"
+  ],
+  "takeaways": [
+   "Defaults are public knowledge. Change them",
+   "Firewalls block, VPNs encrypt",
+   "Separate guests from your main devices"
+  ],
+  "related": [],
+  "videoCategory": "awareness",
+  "order": 11,
+  "quizTopic": "network"
+ },
+ {
+  "id": "wifi",
+  "icon": "wifi",
+  "minutes": 5,
+  "title": "Wi-Fi Security",
+  "summary": "Stay safe on public and home Wi-Fi, and avoid fake hotspots.",
+  "intro": "Wi-Fi is convenient, but you rarely know who runs a public network or who is watching it.",
+  "objectives": [
+   "Recognise risks of public Wi-Fi",
+   "Spot fake hotspots",
+   "Set up secure home Wi-Fi"
+  ],
+  "sections": [
+   {
+    "h": "Public Wi-Fi",
+    "p": [
+     "Criminals can set up look-alike networks (“evil twins”) with names like “Airport_Free_WiFi”. Ask staff for the exact network name. Avoid banking on public Wi-Fi, use mobile data when possible and use a VPN if you must connect."
+    ]
+   },
+   {
+    "h": "At home",
+    "p": [
+     "Use WPA3 (or WPA2) with a long passphrase, change the default router name and password and check connected devices occasionally."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the two airport networks",
+   "text": "Two networks have almost the same name. One is a fake that captures everything typed. Confirm the exact name with staff."
+  },
+  "prevention": [
+   "Confirm the real network name",
+   "Prefer mobile data for banking",
+   "Use a VPN on untrusted networks",
+   "Turn off automatic Wi-Fi joining",
+   "Use WPA3/WPA2 at home"
+  ],
+  "takeaways": [
+   "Not every “Free WiFi” is real",
+   "Use mobile data for sensitive tasks",
+   "Strong passphrase at home"
+  ],
+  "related": [
+   "wifi-security"
+  ],
+  "videoCategory": "awareness",
+  "order": 12,
+  "quizTopic": "wifi"
+ },
+ {
+  "id": "identity-theft",
+  "icon": "id-card",
+  "minutes": 6,
+  "title": "Identity Theft Prevention",
+  "summary": "Protect IDs and personal data, spot early warning signs and act quickly.",
+  "intro": "Identity theft happens when someone uses your personal details to open accounts, take loans or commit fraud in your name.",
+  "objectives": [
+   "Know what details criminals want",
+   "Spot early warning signs",
+   "Respond quickly if your identity is misused"
+  ],
+  "sections": [
+   {
+    "h": "What they want",
+    "p": [
+     "Names, dates of birth, ID and BVN or NIN numbers, addresses, card and bank details. They may get them from phishing, data breaches, discarded papers or over-sharing online."
+    ]
+   },
+   {
+    "h": "Warning signs and response",
+    "p": [
+     "Transactions or accounts you don’t recognise, unexpected bills, messages about accounts you didn’t open. Report to the institution and authorities at once, secure your email and passwords, and keep a record of every report."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the ID photocopy",
+   "text": "A copy of an ID card left at a business centre is reused to open an account. Writing “For X purpose, date” across copies makes misuse harder."
+  },
+  "prevention": [
+   "Shred documents with personal details",
+   "Mark ID copies with their purpose",
+   "Review statements and alerts",
+   "Use unique passwords and 2FA",
+   "Be careful what you post publicly"
+  ],
+  "takeaways": [
+   "Your ID details are valuable",
+   "Check statements and alerts regularly",
+   "Act quickly and keep records"
+  ],
+  "related": [
+   "fake-bank-alerts"
+  ],
+  "videoCategory": "fraud",
+  "order": 13,
+  "quizTopic": "identity-theft"
+ },
+ {
+  "id": "students",
+  "icon": "graduation-cap",
+  "minutes": 6,
+  "title": "Cybersecurity for Students",
+  "summary": "Safe habits for school portals, shared computers, social media and online learning.",
+  "intro": "Students are heavy internet users and frequent targets, from fake scholarships to account takeovers. Your online habits now can protect your future.",
+  "objectives": [
+   "Secure portals, email and shared computers",
+   "Spot scholarship and job scams",
+   "Build a safe digital reputation"
+  ],
+  "sections": [
+   {
+    "h": "Protect your accounts",
+    "p": [
+     "Your school email is the key to many things. Use a unique password and 2FA, never share portal logins and always sign out on shared computers."
+    ]
+   },
+   {
+    "h": "Scams aimed at students",
+    "p": [
+     "Fake scholarships, internship fees, exam-leak offers and fake “free data” links. Legitimate scholarships don’t charge applicants to be selected. Check directly with the awarding organisation."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the scholarship fee",
+   "text": "A message says you were selected for a scholarship if you pay a “processing fee”. The real organisation’s website lists no such programme."
+  },
+  "prevention": [
+   "Unique password and 2FA for school email",
+   "Never share portal logins",
+   "Sign out of shared computers",
+   "Verify scholarship offers directly",
+   "Think before posting. Employers look"
+  ],
+  "takeaways": [
+   "Your school email is a master key",
+   "Real scholarships don’t charge applicants",
+   "Sign out on shared devices"
+  ],
+  "related": [
+   "social-media-security"
+  ],
+  "videoCategory": "students",
+  "order": 14,
+  "quizTopic": "students"
+ },
+ {
+  "id": "business",
+  "icon": "store",
+  "minutes": 7,
+  "title": "Cybersecurity for Small Businesses",
+  "summary": "Simple, low-cost steps for SMEs to protect accounts, payments, customers and data.",
+  "intro": "Small businesses are attractive targets because they hold money and customer data but often have few protections. The good news: basic steps prevent most common attacks.",
+  "objectives": [
+   "Apply a basic security checklist",
+   "Prevent payment-change fraud",
+   "Plan backups and staff access"
+  ],
+  "sections": [
+   {
+    "h": "The basics checklist",
+    "p": [
+     "Unique passwords and 2FA for email, banking and social pages; updates on all devices; regular tested backups; antivirus on computers; and a list of who has access to what."
+    ]
+   },
+   {
+    "h": "Payment and invoice fraud",
+    "p": [
+     "Criminals send a convincing email claiming a supplier’s bank details changed. Always confirm changes by phoning a known number before paying.",
+     "Remove access immediately when staff leave, and give people only the access they need."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the changed account number",
+   "text": "A buyer gets an email from the “supplier” with a new account number. They pay, and the real supplier never receives the money. A quick call would have prevented it."
+  },
+  "prevention": [
+   "2FA on email, banking and social pages",
+   "Verify payment changes by phone",
+   "Regular, tested backups",
+   "Least-privilege access and prompt offboarding",
+   "Train staff to recognise phishing"
+  ],
+  "takeaways": [
+   "Basics prevent most attacks",
+   "Verify bank-detail changes by phone",
+   "Backups and access control protect the business"
+  ],
+  "related": [
+   "fake-bank-alerts"
+  ],
+  "videoCategory": "business",
+  "order": 15,
+  "quizTopic": "business"
+ },
+ {
+  "id": "organisations",
+  "icon": "building-2",
+  "minutes": 7,
+  "title": "Cybersecurity Awareness for Organisations",
+  "summary": "Build a security culture: training, reporting, access rules and incident planning.",
+  "intro": "Technology alone can’t protect an organisation. People make daily decisions that attackers try to influence. A strong security culture turns staff into a defence.",
+  "objectives": [
+   "Plan an awareness programme",
+   "Create a blame-free reporting culture",
+   "Prepare a basic incident response plan"
+  ],
+  "sections": [
+   {
+    "h": "Awareness that sticks",
+    "p": [
+     "Short, regular sessions beat one long annual lecture. Use real examples from your sector, simulated phishing exercises that teach rather than punish and clear guidance on what to do."
+    ]
+   },
+   {
+    "h": "Be ready for incidents",
+    "p": [
+     "Write down who to call, how to isolate a device, how to preserve evidence and how to communicate. Practise it. Make reporting easy and blame-free so problems surface early."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the quick report",
+   "text": "An employee reports a suspicious email within minutes. IT blocks the sender before others click. The culture, not the technology, made the difference."
+  },
+  "prevention": [
+   "Regular short awareness sessions",
+   "Easy, blame-free reporting",
+   "Least-privilege access",
+   "A written, practised incident plan",
+   "Rules for personal devices used for work"
+  ],
+  "takeaways": [
+   "People are part of the defence",
+   "Make reporting easy and safe",
+   "Practise your incident plan"
+  ],
+  "related": [],
+  "videoCategory": "business",
+  "order": 16,
+  "quizTopic": "organisations"
+ },
+ {
+  "id": "payments",
+  "icon": "credit-card",
+  "minutes": 7,
+  "title": "Safe Digital Payments",
+  "summary": "Protect your cards, transfers, mobile money and POS or ATM use.",
+  "intro": "Digital payments are fast, and so are mistakes and fraud. A few habits keep your money safer.",
+  "objectives": [
+   "Protect PINs, OTPs and cards",
+   "Verify before you send a transfer",
+   "React quickly to suspicious alerts"
+  ],
+  "sections": [
+   {
+    "h": "Protect the secrets",
+    "p": [
+     "Your PIN, OTP, CVV and password are for you alone. No bank, shop or agent needs them from you. Shield the keypad at ATMs and POS terminals and don’t accept help from strangers."
+    ]
+   },
+   {
+    "h": "Before you send",
+    "p": [
+     "Check the beneficiary name and account number, be wary of requests to pay by gift cards or into personal accounts for “deposits”, and use virtual or low-balance cards for online shopping.",
+     "If you see a debit you didn’t make, contact your bank through its official app or number immediately and block the card."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the clipboard swap",
+   "text": "Some malware changes the account number you copied. Always re-read the account name and number before you confirm."
+  },
+  "prevention": [
+   "Never share PIN, OTP or CVV",
+   "Shield the keypad",
+   "Confirm beneficiary name and number",
+   "Use virtual or low-balance cards online",
+   "Act on suspicious alerts immediately"
+  ],
+  "takeaways": [
+   "PIN, OTP and CVV are never to be shared",
+   "Verify the account before sending",
+   "Report suspicious debits immediately"
+  ],
+  "related": [
+   "fake-bank-alerts"
+  ],
+  "videoCategory": "fraud",
+  "order": 17,
+  "quizTopic": "payments"
+ },
+ {
+  "id": "ai",
+  "icon": "bot",
+  "minutes": 7,
+  "title": "Artificial Intelligence and Cybersecurity",
+  "summary": "How AI helps criminals and defenders, deepfakes, voice cloning and using AI tools safely.",
+  "intro": "AI tools can write, speak and create images that look real. That helps both defenders and criminals. Knowing the risks lets you enjoy the benefits safely.",
+  "objectives": [
+   "Understand how criminals use AI",
+   "Recognise deepfakes and voice-clone scams",
+   "Use AI tools without leaking private data"
+  ],
+  "sections": [
+   {
+    "h": "New tricks, old goals",
+    "p": [
+     "AI can write convincing phishing messages, clone a voice from a short clip and generate fake images or videos (deepfakes). The goal is the same: to make you trust, pay or share."
+    ]
+   },
+   {
+    "h": "Using AI safely",
+    "p": [
+     "Don’t paste passwords, ID numbers or confidential business data into AI tools. Verify important facts, since AI can be confidently wrong. If a voice note or video asks for urgent money, verify with the person on a number you already have."
+    ]
+   }
+  ],
+  "example": {
+   "title": "Example: the cloned voice",
+   "text": "A voice note that sounds like your brother asks for urgent money. Calling him back on his known number reveals he sent nothing."
+  },
+  "prevention": [
+   "Verify urgent requests through a second channel",
+   "Don’t share secrets with AI tools",
+   "Check important facts from trusted sources",
+   "Be sceptical of too-perfect videos or audio",
+   "Agree a family safe word for emergencies"
+  ],
+  "takeaways": [
+   "AI makes scams more convincing",
+   "Verify urgent voice and video requests",
+   "Don’t put secrets into AI tools"
+  ],
+  "related": [],
+  "videoCategory": "awareness",
+  "order": 18,
+  "quizTopic": "ai"
+ }
+]

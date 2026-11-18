@@ -1,0 +1,84 @@
+[
+ {
+  "q": "Kí ni phishing?",
+  "a": "Phishing ni nígbà tí àwọn arúfin bá ṣe bí báǹkì, ilé-iṣẹ́ tàbí ẹni tí o mọ̀ láti tàn ọ́ láti ṣípayá àlàyé tàbí tẹ nǹkan eléwu. Ó ń dé nípasẹ̀ ímeèlì, SMS, ìpè àti ìránṣẹ́ ìkànnì àjọlò. Má lo ìjápọ̀ tó wà nínú ìránṣẹ́. Ṣí àpù aláṣẹ fúnra rẹ.",
+  "keywords": [
+   "phishing",
+   "ìránṣẹ́ èké",
+   "jìbìtì",
+   "ìjápọ̀",
+   "link"
+  ]
+ },
+ {
+  "q": "Báwo ni mo ṣe lè ṣẹ̀dá ọ̀rọ̀ aṣínà tó lágbára?",
+  "a": "Lo gbólóhùn gígùn ti àwọn ọ̀rọ̀ tí kò jọra, tí kò dín ní ọ̀rọ̀ mẹ́wàá, kí o sì lo ọ̀rọ̀ aṣínà tó yàtọ̀ fún àkáǹtì kọ̀ọ̀kan. Yẹra fún orúkọ, ọjọ́ ìbí àti “123456”. Olùṣàkóso ọ̀rọ̀ aṣínà lè ràn ọ́ lọ́wọ́, kí o sì tan ìfọwọ́sí onígbésẹ̀ méjì (2FA).",
+  "keywords": [
+   "ọ̀rọ̀ aṣínà",
+   "password",
+   "lágbára",
+   "2fa"
+  ]
+ },
+ {
+  "q": "Ṣé báǹkì máa béèrè OTP tàbí PIN mi?",
+  "a": "Rárá. Báǹkì gidi kì í béèrè PIN, OTP, ọ̀rọ̀ aṣínà tàbí àlàyé káàdì rẹ pípé nípasẹ̀ ìpè, SMS tàbí ìjíròrò. Tí ẹnìkan bá béèrè, dáwọ́ dúró kí o sì pe báǹkì rẹ nípasẹ̀ nọ́ńbà tó wà lórí káàdì rẹ tàbí àpù rẹ̀ tí aláṣẹ.",
+  "keywords": [
+   "otp",
+   "pin",
+   "báǹkì",
+   "bvn",
+   "kódù"
+  ]
+ },
+ {
+  "q": "Kí ni jìbìtì pípààrọ̀ SIM?",
+  "a": "Pípààrọ̀ SIM ni nígbà tí arúfin bá yí nẹ́tíwọ́kì lọ́kàn padà láti gbé nọ́ńbà rẹ lọ sí SIM rẹ̀. Ó lè gba àwọn ìpè àti OTP rẹ. Tí fóònù rẹ bá pàdánù ìsopọ̀ lójijì, kàn sí olùpèsè nẹ́tíwọ́kì àti báǹkì rẹ lẹ́sẹ̀kẹsẹ̀, kí o sì dáàbò bo SIM rẹ pẹ̀lú PIN.",
+  "keywords": [
+   "pípààrọ̀ sim",
+   "sim swap",
+   "ìsopọ̀",
+   "nọ́ńbà"
+  ]
+ },
+ {
+  "q": "Báwo ni mo ṣe lè dáàbò bo WhatsApp mi?",
+  "a": "Tan ìfọwọ́sí onígbésẹ̀ méjì nínú àwọn ètò WhatsApp, má ṣe pín kódù ìforúkọsílẹ̀ oní-nọ́ńbà mẹ́fà, ṣàyẹ̀wò àwọn ẹ̀rọ tí a so mọ́ ọn kí o sì ṣàyẹ̀wò àwọn ètò àṣírí. Tí ọ̀rẹ́ kan bá bèèrè owó lójijì, pè é kọ́kọ́.",
+  "keywords": [
+   "whatsapp",
+   "jíjí àkáǹtì",
+   "kódù ìfọwọ́sí"
+  ]
+ },
+ {
+  "q": "Báwo ni mo ṣe lè mọ ìdókòwò èké?",
+  "a": "Ṣọ́ra fún ìlérí èrè gíga, ìfúnpá láti náwó kíákíá àti èrè fún mímú àwọn mìíràn wá. Ṣàyẹ̀wò pé ilé-iṣẹ́ àti ìwé-àṣẹ rẹ̀ jẹ́ gidi lórí ojú-òpó aláṣẹ olùṣàkóso, kí o sì bá ẹni tí o fọkàn tán sọ̀rọ̀ kí o tó fi owó ránṣẹ́.",
+  "keywords": [
+   "ìdókòwò",
+   "ponzi",
+   "èrè",
+   "jìbìtì"
+  ]
+ },
+ {
+  "q": "Ṣé Wi-Fi gbogbo ènìyàn láàbò fún iṣẹ́ báǹkì?",
+  "a": "Ó dára láti yẹra fún iṣẹ́ báǹkì lórí Wi-Fi gbogbo ènìyàn. Lo dátà fóònù. Tí o bá gbọ́dọ̀ lo Wi-Fi gbogbo ènìyàn, fìdí orúkọ nẹ́tíwọ́kì tó pé múlẹ̀ lọ́wọ́ òṣìṣẹ́ kí o sì lo VPN tó ṣeé gbẹ́kẹ̀lé.",
+  "keywords": [
+   "wifi",
+   "gbogbo ènìyàn",
+   "hotspot",
+   "vpn"
+  ]
+ },
+ {
+  "q": "Kí ni mo máa ṣe tí wọ́n bá tàn mí jẹ tàbí tí wọ́n jí àkáǹtì mi?",
+  "a": "Kàn sí báǹkì rẹ lẹ́sẹ̀kẹsẹ̀ tí owó bá kàn, yí àwọn ọ̀rọ̀ aṣínà padà, tan 2FA, pa àwọn àwòrán ìránṣẹ́ mọ́ kí o sì fi tó ìkànnì tí ó ṣẹlẹ̀ lórí rẹ̀ létí. Chatbot yìí kò lè bójú tó ìkọlù tó ń lọ lọ́wọ́. Kàn sí báǹkì rẹ àti àwọn aláṣẹ.",
+  "keywords": [
+   "wọ́n tàn mí jẹ",
+   "jíjí",
+   "wọ́n jí àkáǹtì mi",
+   "ìròyìn",
+   "hacked"
+  ]
+ }
+]

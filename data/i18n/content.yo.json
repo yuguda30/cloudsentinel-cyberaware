@@ -1,0 +1,333 @@
+{
+ "topics": {
+  "intro": {
+   "title": "Ìfáàrà sí Ààbò Ayélujára",
+   "summary": "Ohun tí ààbò ayélujára jẹ́, ìdí tó fi kan gbogbo ènìyàn, àti àwọn àṣà rírọrùn tó ń dènà ọ̀pọ̀ ìkọlù.",
+   "takeaways": [
+    "Ẹnikẹ́ni lè jẹ́ ibi-àfojúsùn",
+    "Ọ̀pọ̀ ìkọlù ń tan ènìyàn jẹ, kì í ṣe kọ̀ǹpútà",
+    "Àwọn àṣà kékeré ń dènà ọ̀pọ̀ ìkọlù"
+   ]
+  },
+  "passwords": {
+   "title": "Ààbò Ọ̀rọ̀ Aṣínà",
+   "summary": "Ṣẹ̀dá ọ̀rọ̀ aṣínà tó lágbára tó sì yàtọ̀, lo olùṣàkóso ọ̀rọ̀ aṣínà kí o sì mú ìfọwọ́sí onígbésẹ̀ méjì ṣiṣẹ́.",
+   "takeaways": [
+    "Gígùn àti àìlẹ́gbẹ́ sàn ju kúkúrú tó díjú",
+    "Ìfọ́ ojú-òpó kan kò gbọdọ̀ ṣí gbogbo àkáǹtì rẹ",
+    "2FA ni àbò rẹ. Má ṣe pín àwọn kódù rẹ̀"
+   ]
+  },
+  "phishing": {
+   "title": "Phishing àti Ààbò Ímeèlì",
+   "summary": "Dá ímeèlì, SMS àti ìjápọ̀ èké mọ̀, kí o sì mọ ohun tí o máa ṣe tí o bá ti tẹ̀ ẹ́.",
+   "takeaways": [
+    "Kíákíá + ìjápọ̀ + bíbéèrè àṣírí jẹ́ àsíá pupa",
+    "Lọ sí àpù aláṣẹ, má lo ìjápọ̀ náà",
+    "Tí o bá ti tẹ̀ ẹ́, yí ọ̀rọ̀ aṣínà padà kí o sì sọ fún báǹkì rẹ"
+   ]
+  },
+  "social-engineering": {
+   "title": "Ìtànjẹ Ẹ̀dá",
+   "summary": "Bí àwọn agbékalẹ̀ ìkọlù ṣe ń lo ìgbẹ́kẹ̀lé, ìbẹ̀rù àti kíákíá, àti bí o ṣe lè dúró ṣinṣin.",
+   "takeaways": [
+    "Àwọn agbéraga ń fojú sí ẹ̀dùn-ọkàn, kì í ṣe ẹ̀rọ",
+    "Ìfúnpá àti àṣírí jẹ́ àmì ìkìlọ̀",
+    "Fìdí múlẹ̀ nípasẹ̀ ọ̀nà míràn tí o fọkàn tán"
+   ]
+  },
+  "scams": {
+   "title": "Jìbìtì Orí Ayélujára àti Ìdènà",
+   "summary": "Mọ ìdókòwò èké, jìbìtì owó ṣáájú, ṣọ́ọ̀bù èké, àpù ìyáwó àti jìbìtì ìfẹ́.",
+   "takeaways": [
+    "Kíákíá + ìlérí owó rírọrùn jẹ́ ìkìlọ̀",
+    "Má ṣe sanwó láti rí nǹkan gbà",
+    "Fi tó ní létí kíákíá. Ìyára lè gba owó rẹ là"
+   ]
+  },
+  "mobile": {
+   "title": "Ààbò Ẹ̀rọ Alágbèéká",
+   "summary": "Dáàbò bo fóònù rẹ pẹ̀lú títì, àtúnṣe, àpù tó láàbò àti ìyọ̀ǹda tó bójú mu.",
+   "takeaways": [
+    "Fóònù rẹ jẹ́ àpótí. Tì í",
+    "Ìyọ̀ǹda díẹ̀ túmọ̀ sí ewu díẹ̀",
+    "Pípàdánù ìsopọ̀ lójijì lè jẹ́ ìkìlọ̀ pípààrọ̀ SIM"
+   ]
+  },
+  "browsing": {
+   "title": "Ààbò Íńtánẹ́ẹ̀tì àti Aṣàwákiri",
+   "summary": "Lọ kiri láìléwu: ṣàyẹ̀wò àdírẹ́sì, yẹra fún ìgbàsílẹ̀ eléwu kí o sì mọ ohun tí HTTPS túmọ̀ sí gan-an.",
+   "takeaways": [
+    "Ojú-òpó gidi ni apá ṣáájú slash àkọ́kọ́",
+    "HTTPS = a fi pamọ́, kì í ṣe dandan òtítọ́",
+    "Àwọn fèrèsé tó ń dẹ́rùbà jẹ́ jìbìtì ní ọ̀pọ̀ ìgbà"
+   ]
+  },
+  "social-media": {
+   "title": "Ààbò Ìkànnì Àjọlò",
+   "summary": "Tì àkáǹtì rẹ, pín díẹ̀ kí o sì yẹra fún jíjí àkáǹtì lórí Facebook, Instagram, WhatsApp àti àwọn mìíràn.",
+   "takeaways": [
+    "A lè lo àkáǹtì rẹ láti tan àwọn ọ̀rẹ́ rẹ jẹ",
+    "Pín díẹ̀, dáàbò bo púpọ̀",
+    "Má ṣe pín kódù ìfọwọ́sí láéláé"
+   ]
+  },
+  "privacy": {
+   "title": "Àṣírí Dátà àti Ààbò",
+   "summary": "Lóye dátà ara ẹni rẹ, ẹ̀tọ́ rẹ àti bí o ṣe lè pín èyí tó pọn dandan nìkan.",
+   "takeaways": [
+    "Dátà rẹ ṣe pàtàkì. Pín in pẹ̀lú ète",
+    "Béèrè ìdí tí wọ́n fi nílò rẹ̀ àti bí wọn yóò ṣe lò ó",
+    "Òfin fún ọ ní ẹ̀tọ́. Kọ́ wọn"
+   ]
+  },
+  "malware": {
+   "title": "Ransomware àti Malware",
+   "summary": "Ohun tí sọ́fútíwia eléwu jẹ́, bí ó ṣe ń tàn àti bí ìṣàkójọ ìdákọ̀ró ṣe ń borí ransomware.",
+   "takeaways": [
+    "Ọ̀pọ̀ malware ń dé nípasẹ̀ ẹ̀tàn, kì í ṣe idán",
+    "Ìdákọ̀ró ni ìdáhùn tó dára jù sí ransomware",
+    "Tí o bá ní àkóràn, ya ara rẹ kúrò lórí íńtánẹ́ẹ̀tì kí o sì wá ìrànlọ́wọ́"
+   ]
+  },
+  "network": {
+   "title": "Ààbò Nẹ́tíwọ́kì",
+   "summary": "Dáàbò bo router rẹ, lóye firewall àti bí a ṣe ń lo VPN pẹ̀lú ọgbọ́n.",
+   "takeaways": [
+    "Àwọn ètò àtijọ́ ni a mọ̀ dáadáa. Yí wọn padà",
+    "Firewall ń dínà, VPN ń fi pamọ́",
+    "Ya àwọn àlejò sọ́tọ̀ kúrò lára ẹ̀rọ rẹ"
+   ]
+  },
+  "wifi": {
+   "title": "Ààbò Wi-Fi",
+   "summary": "Wà láìléwu lórí Wi-Fi gbogbo ènìyàn àti ti ilé, kí o sì yẹra fún hotspot èké.",
+   "takeaways": [
+    "Kì í ṣe gbogbo “Free WiFi” ló jẹ́ gidi",
+    "Lo dátà fóònù fún àwọn nǹkan pàtàkì",
+    "Ọ̀rọ̀ aṣínà tó lágbára ní ilé"
+   ]
+  },
+  "identity-theft": {
+   "title": "Dídènà Jíjí Ìdánimọ̀",
+   "summary": "Dáàbò bo káàdì ìdánimọ̀ àti dátà ara ẹni, mọ àwọn àmì àkọ́kọ́ kí o sì yára gbé ìgbésẹ̀.",
+   "takeaways": [
+    "Àlàyé ìdánimọ̀ rẹ ṣe pàtàkì",
+    "Ṣàyẹ̀wò àwọn ìwé-ìṣirò báǹkì àti ìkìlọ̀ déédéé",
+    "Yára gbé ìgbésẹ̀ kí o sì pa àwọn ìwé-ẹ̀rí mọ́"
+   ]
+  },
+  "students": {
+   "title": "Ààbò Ayélujára fún Àwọn Akẹ́kọ̀ọ́",
+   "summary": "Àwọn àṣà tó láàbò fún ọ̀nà-àbáwọlé ilé-ẹ̀kọ́, kọ̀ǹpútà àjùmọ̀lò, ìkànnì àjọlò àti ẹ̀kọ́ orí ayélujára.",
+   "takeaways": [
+    "Ímeèlì ilé-ẹ̀kọ́ rẹ jẹ́ kọ́kọ́rọ́ pàtàkì",
+    "Ẹ̀bùn ẹ̀kọ́ gidi kì í gba owó lọ́wọ́ olùbéèrè",
+    "Jáde lórí àwọn ẹ̀rọ àjùmọ̀lò"
+   ]
+  },
+  "business": {
+   "title": "Ààbò Ayélujára fún Iṣẹ́ Òwò Kékeré",
+   "summary": "Àwọn ìgbésẹ̀ rírọrùn, tí kò gbówó lórí fún iṣẹ́ òwò láti dáàbò bo àkáǹtì, ìsanwó, oníbàárà àti dátà.",
+   "takeaways": [
+    "Àwọn ìpìlẹ̀ ń dènà ọ̀pọ̀ ìkọlù",
+    "Fìdí àyípadà àlàyé báǹkì múlẹ̀ nípasẹ̀ ìpè",
+    "Ìdákọ̀ró àti ìṣàkóso wíwọlé ń dáàbò bo iṣẹ́ òwò"
+   ]
+  },
+  "organisations": {
+   "title": "Ìmọ̀ Ààbò Ayélujára fún Àwọn Àjọ",
+   "summary": "Kọ́ àṣà ààbò: ìdánilẹ́kọ̀ọ́, ìròyìn, òfin wíwọlé àti ètò ìdáhùn sí ìkọlù.",
+   "takeaways": [
+    "Àwọn ènìyàn jẹ́ apá kan ààbò",
+    "Jẹ́ kí ìròyìn rọrùn, kí ó sì láìléwu",
+    "Ṣe àdánwò ètò ìdáhùn sí ìkọlù rẹ"
+   ]
+  },
+  "payments": {
+   "title": "Ìsanwó Dídíjítà Láìléwu",
+   "summary": "Dáàbò bo káàdì rẹ, ìfiránṣẹ́ owó, mobile money àti lílo POS tàbí ATM.",
+   "takeaways": [
+    "Má ṣe pín PIN, OTP tàbí CVV láéláé",
+    "Fìdí àkáǹtì múlẹ̀ kí o tó fi owó ránṣẹ́",
+    "Fi ìyọkúrò owó tó ń mú ṣiyèméjì tó ní létí lẹ́sẹ̀kẹsẹ̀"
+   ]
+  },
+  "ai": {
+   "title": "Ọgbọ́n Àtọwọ́dá àti Ààbò Ayélujára",
+   "summary": "Bí AI ṣe ń ran àwọn arúfin àti àwọn olùdáàbò lọ́wọ́, deepfake, àfarawé ohùn àti lílo ohun èlò AI láìléwu.",
+   "takeaways": [
+    "AI ń jẹ́ kí jìbìtì lè dá ènìyàn lójú sí i",
+    "Fìdí ìbéèrè ohùn àti fídíò kíákíá múlẹ̀",
+    "Má ṣe fi àṣírí sínú ohun èlò AI"
+   ]
+  }
+ },
+ "tips": {
+  "tip-001": {
+   "text": "Dúró kí o tó tẹ̀. Kíákíá ni ohun ìjà ayanfẹ́ ẹlẹ́tàn."
+  },
+  "tip-002": {
+   "text": "Fi àwọn àtúnṣe sórí ẹ̀rọ. Wọ́n ń ṣe àtúnṣe àwọn àlàfo ààbò tí àwọn agbéraga ń lò."
+  },
+  "tip-005": {
+   "text": "Lo gbólóhùn gígùn ti àwọn ọ̀rọ̀ tí kò jọra dípò ọ̀rọ̀ aṣínà kúkúrú tó díjú."
+  },
+  "tip-008": {
+   "text": "Má ṣe pín kódù ìgbà kan (OTP) pẹ̀lú ẹnikẹ́ni, bó tilẹ̀ jẹ́ pé wọ́n sọ pé àwọn wá láti báǹkì rẹ."
+  },
+  "tip-009": {
+   "text": "Má gbẹ́kẹ̀lé ìjápọ̀ nínú ìránṣẹ́. Ṣí àpù aláṣẹ tàbí kọ àdírẹ́sì fúnra rẹ."
+  },
+  "tip-012": {
+   "text": "Àwọn báǹkì gidi kì í béèrè PIN, OTP tàbí ọ̀rọ̀ aṣínà rẹ nípasẹ̀ SMS, ìpè tàbí ìjíròrò."
+  },
+  "tip-013": {
+   "text": "Lo títì ojú-ìṣàfihàn tó lágbára kí o sì tan find-my-device."
+  },
+  "tip-015": {
+   "text": "Tí fóònù rẹ bá pàdánù gbogbo ìsopọ̀ lójijì, pe olùpèsè nẹ́tíwọ́kì rẹ. Ó lè jẹ́ pípààrọ̀ SIM."
+  },
+  "tip-017": {
+   "text": "Tan ìfọwọ́sí onígbésẹ̀ méjì lórí WhatsApp kí o má sì pín kódù oní-nọ́ńbà mẹ́fà rẹ̀."
+  },
+  "tip-019": {
+   "text": "Tí ọ̀rẹ́ kan bá bèèrè owó lójijì, pè é kọ́kọ́. Ó ṣeéṣe kí a ti jí àkáǹtì rẹ̀."
+  },
+  "tip-021": {
+   "text": "Lo àpù báǹkì rẹ tí aláṣẹ tàbí nọ́ńbà tó wà lórí káàdì rẹ. Kì í ṣe nọ́ńbà inú ìránṣẹ́."
+  },
+  "tip-022": {
+   "text": "Ṣàyẹ̀wò orúkọ olùgbà kí o tó fọwọ́sí ìfiránṣẹ́ owó."
+  },
+  "tip-025": {
+   "text": "Pín dátà ara ẹni tó pọn dandan nìkan."
+  },
+  "tip-026": {
+   "text": "Kọ ète àti déètì sórí ẹ̀dà káàdì ìdánimọ̀ rẹ."
+  },
+  "tip-029": {
+   "text": "Ṣàyẹ̀wò àdírẹ́sì ojú-òpó kí o tó tẹ ọ̀rọ̀ aṣínà. Ojú-òpó gidi ni apá ṣáájú slash àkọ́kọ́."
+  },
+  "tip-030": {
+   "text": "Àwọn fèrèsé tó ń dẹ́rùbà (“fóònù rẹ ní àkóràn”) fẹ́rẹ̀ẹ́ máa ń jẹ́ jìbìtì. Pa wọ́n."
+  },
+  "tip-033": {
+   "text": "Tí ó bá ṣe ìlérí èrè gíga láìsí ewu, jìbìtì ni."
+  },
+  "tip-034": {
+   "text": "Má ṣe sanwó láti rí ẹ̀bùn, iṣẹ́, ìyáwó tàbí ẹ̀bùn ẹ̀kọ́ gbà."
+  }
+ },
+ "questions": {
+  "q-intro-05": {
+   "q": "O rí ìránṣẹ́ tó ń dẹ́rùbà nípa àkáǹtì rẹ. Kí ni ìgbésẹ̀ àkọ́kọ́ tó dára jù?",
+   "options": [
+    "Tẹ ìjápọ̀ kíákíá kí ó tó pẹ́ jù",
+    "Dúró, lẹ́yìn náà ṣàyẹ̀wò nípasẹ̀ àpù aláṣẹ tàbí ojú-òpó tí o ṣí fúnra rẹ",
+    "Fi ránṣẹ́ sí gbogbo àwọn olùbáṣepọ̀ rẹ"
+   ],
+   "explanation": "Àwọn agbéraga gbẹ́kẹ̀lé kíákíá rẹ. Dín ìyára kù kí o sì fìdí múlẹ̀ nípasẹ̀ ọ̀nà tí o fọkàn tán."
+  },
+  "q-pw-03": {
+   "q": "Èé ṣe tí lílo ọ̀rọ̀ aṣínà kan náà lórí àkáǹtì púpọ̀ fi léwu?",
+   "options": [
+    "Ó ń jẹ́ kí ọ̀rọ̀ aṣínà gùn",
+    "Tí a bá fọ́ ojú-òpó kan, àwọn agbéraga lè gbìyànjú rẹ̀ lórí àwọn àkáǹtì rẹ yòókù",
+    "Kò léwu"
+   ],
+   "explanation": "A máa ń gbìyànjú àwọn ọ̀rọ̀ aṣínà tó jò lórí àwọn ojú-òpó míràn láìfọwọ́yí. Ọ̀rọ̀ aṣínà tó yàtọ̀ ń dín ìpalára kù."
+  },
+  "q-pw-05": {
+   "q": "Ẹnìkan tó ń sọ pé òun jẹ́ olùrànlọ́wọ́ béèrè kódù ìgbà kan tí a ṣẹ̀ṣẹ̀ fi ránṣẹ́ sí ọ. Kí ni o yẹ kí o ṣe?",
+   "options": [
+    "Fún un láti fi hàn pé ìwọ ni",
+    "Kọ̀. Olùrànlọ́wọ́ gidi kì í nílò kódù ìgbà kan rẹ",
+    "Fi ìdajì rẹ̀ ránṣẹ́"
+   ],
+   "explanation": "Kódù ìgbà kan jẹ́ kọ́kọ́rọ́ àkáǹtì rẹ. Ẹnikẹ́ni tó bá béèrè rẹ̀ ń gbìyànjú láti gba àkáǹtì rẹ."
+  },
+  "q-ph-01": {
+   "q": "Ìránṣẹ́ kan sọ pé: “A ó tì àkáǹtì rẹ láàárín ìṣẹ́jú 30. Fìdí BVN àti OTP rẹ múlẹ̀ ní bit.ly/xyz.” Kí ni ìdáhùn tó dára jù?",
+   "options": [
+    "Tẹ ìjápọ̀ náà kí o sì fìdí múlẹ̀ kíákíá",
+    "Fi ìjápọ̀ náà sílẹ̀ kí o sì kàn sí báǹkì rẹ nípasẹ̀ àpù tàbí nọ́ńbà rẹ̀ tí aláṣẹ",
+    "Dáhùn pẹ̀lú BVN nìkan"
+   ],
+   "explanation": "Àwọn báǹkì kì í béèrè OTP tàbí àlàyé pípé nípasẹ̀ ìjápọ̀ SMS. Kàn sí báǹkì nípasẹ̀ àwọn ọ̀nà aláṣẹ.",
+   "scenario": null
+  },
+  "q-ph-04": {
+   "q": "O tẹ ìjápọ̀ tó ń mú ṣiyèméjì, o sì tẹ ọ̀rọ̀ aṣínà rẹ sí i. Kí ni o yẹ kí o kọ́kọ́ ṣe?",
+   "options": [
+    "Má ṣe nǹkan kan",
+    "Yí ọ̀rọ̀ aṣínà náà padà lẹ́sẹ̀kẹsẹ̀ lórí ojú-òpó gidi, tan 2FA kí o sì ṣàyẹ̀wò iṣẹ́ àkáǹtì rẹ",
+    "Pa àkáǹtì ímeèlì rẹ́"
+   ],
+   "explanation": "Yára: yí ọ̀rọ̀ aṣínà padà (àti níbikíbi tí o ti lò ó), tan 2FA kí o sì ṣàtúnyẹ̀wò iṣẹ́ àìpẹ́."
+  },
+  "q-se-02": {
+   "q": "Olùpè kan sọ pé òun wá láti ilé-iṣẹ́ nẹ́tíwọ́kì rẹ, ó sì nílò PIN rẹ “láti ṣe àtúnṣe ìṣòro kan”. Kí ni o yẹ kí o ṣe?",
+   "options": [
+    "Fún un, ó ń sọ̀rọ̀ bí ògbóǹtarìgì",
+    "Gé ìpè náà kí o sì pe nọ́ńbà aláṣẹ fúnra rẹ",
+    "Sọ fún un pé kí ó fi ìjápọ̀ ránṣẹ́ sí ọ"
+   ],
+   "explanation": "Má ṣe pín PIN tàbí kódù lórí ìpè tí wọ́n pè ọ́. Pè padà nípasẹ̀ nọ́ńbà tí o rí fúnra rẹ."
+  },
+  "q-sc-02": {
+   "q": "O gba ìránṣẹ́ pé o jèrè lotiri tí o kò wọ̀. Wọ́n ń béèrè “owó ìtúsílẹ̀”. Kí ni èyí?",
+   "options": [
+    "Jìbìtì owó ṣáájú",
+    "Ẹ̀bùn gidi",
+    "Ìdápadà owó báǹkì"
+   ],
+   "explanation": "Tí o bá gbọ́dọ̀ sanwó láti gba ẹ̀bùn, jìbìtì ni."
+  },
+  "q-sc-07": {
+   "q": "Ìpolówó iṣẹ́ kan ń béèrè pé kí o sanwó láti dì ipò náà mú. Kí ni ìgbésẹ̀ tó dára jù?",
+   "options": [
+    "Sanwó kíákíá kí àwọn mìíràn tó ṣe",
+    "Lọ. Àwọn agbanisíṣẹ́ gidi kì í gba owó lọ́wọ́ àwọn olùbéèrè",
+    "Sọ fún ọ̀rẹ́ kan pé kí ó sanwó pẹ̀lú"
+   ],
+   "explanation": "Bíbéèrè owó fún iṣẹ́ jẹ́ jìbìtì ìgbaniṣíṣẹ́ tó wọ́pọ̀."
+  },
+  "q-mo-04": {
+   "q": "Kí ni jìbìtì pípààrọ̀ SIM?",
+   "options": [
+    "Arúfin ń gbé nọ́ńbà rẹ lọ sí SIM rẹ̀ láti gba àwọn ìpè àti kódù rẹ",
+    "Yíyí nẹ́tíwọ́kì fóònù rẹ padà",
+    "Rírà SIM kejì"
+   ],
+   "explanation": "Nígbà tí wọ́n bá ní ìṣàkóso nọ́ńbà rẹ, wọ́n lè gba OTP rẹ. Kàn sí olùpèsè nẹ́tíwọ́kì lẹ́sẹ̀kẹsẹ̀ tí SIM rẹ bá dáwọ́ iṣẹ́ dúró lójijì."
+  },
+  "q-sm-04": {
+   "q": "WhatsApp fi kódù ìfọwọ́sí oní-nọ́ńbà mẹ́fà ránṣẹ́ sí ọ tí o kò béèrè. Kí ni èyí túmọ̀ sí?",
+   "options": [
+    "Ẹnìkan lè máa gbìyànjú láti forúkọ nọ́ńbà rẹ sílẹ̀. Má pín kódù náà",
+    "O jèrè ẹ̀bùn",
+    "O gbọ́dọ̀ dáhùn pẹ̀lú kódù náà"
+   ],
+   "explanation": "Pípín in jẹ́ kí agbéraga gba WhatsApp rẹ. Tan ìfọwọ́sí onígbésẹ̀ méjì."
+  },
+  "q-pm-01": {
+   "q": "Ta ló lè béèrè PIN tàbí OTP káàdì rẹ ní ọ̀nà tó tọ́?",
+   "options": [
+    "Kò sí ẹnìkan. Má ṣe pín wọn",
+    "Báǹkì lórí ìpè",
+    "Òṣìṣẹ́ ṣọ́ọ̀bù"
+   ],
+   "explanation": "PIN àti OTP rẹ jẹ́ tìrẹ nìkan."
+  },
+  "q-pm-03": {
+   "q": "O rí ìkìlọ̀ ìyọkúrò owó fún ìdúnàádúrà tí o kò ṣe. Kí ni o yẹ kí o kọ́kọ́ ṣe?",
+   "options": [
+    "Kàn sí báǹkì rẹ lẹ́sẹ̀kẹsẹ̀ nípasẹ̀ ọ̀nà aláṣẹ kí o sì dí káàdì náà",
+    "Dúró fún ọ̀sẹ̀ kan",
+    "Dáhùn SMS náà"
+   ],
+   "explanation": "Ìyára ṣe pàtàkì. Lo àpù báǹkì aláṣẹ tàbí nọ́ńbà rẹ̀."
+  }
+ }
+}

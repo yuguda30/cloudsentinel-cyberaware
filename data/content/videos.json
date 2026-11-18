@@ -1,0 +1,310 @@
+[
+ {
+  "id": "awareness-for-everyone",
+  "category": "awareness",
+  "featured": true,
+  "important": true,
+  "relatedTopics": [
+   "intro"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Cybersecurity awareness for everyone",
+    "description": "",
+    "placeholder": true
+   },
+   "ha": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Wayar da kai kan tsaron yanar gizo ga kowa",
+    "description": "",
+    "placeholder": true
+   },
+   "ig": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Mmụta nchekwa ịntanetị maka onye ọ bụla",
+    "description": "",
+    "placeholder": true
+   },
+   "yo": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Ìmọ̀ ààbò ayélujára fún gbogbo ènìyàn",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "spot-online-fraud",
+  "category": "fraud",
+  "featured": true,
+  "important": true,
+  "relatedTopics": [
+   "scams"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "How to spot online fraud",
+    "description": "",
+    "placeholder": true
+   },
+   "ha": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Yadda ake gane damfara ta yanar gizo",
+    "description": "",
+    "placeholder": true
+   },
+   "ig": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Otu esi achọpụta aghụghọ n’ịntanetị",
+    "description": "",
+    "placeholder": true
+   },
+   "yo": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Bí a ṣe lè mọ jìbìtì orí ayélujára",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "phishing-fake-messages",
+  "category": "phishing",
+  "featured": true,
+  "important": true,
+  "relatedTopics": [
+   "phishing"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Spotting phishing and fake messages",
+    "description": "",
+    "placeholder": true
+   },
+   "ha": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Gane saƙonnin bogi da phishing",
+    "description": "",
+    "placeholder": true
+   },
+   "ig": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Ịchọpụta phishing na ozi ụgha",
+    "description": "",
+    "placeholder": true
+   },
+   "yo": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Mímọ phishing àti àwọn ìránṣẹ́ èké",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "strong-passwords-2fa",
+  "category": "passwords",
+  "featured": false,
+  "important": true,
+  "relatedTopics": [
+   "passwords"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Strong passwords and two-factor authentication",
+    "description": "",
+    "placeholder": true
+   },
+   "ha": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Kalmomin sirri masu ƙarfi da 2FA",
+    "description": "",
+    "placeholder": true
+   },
+   "ig": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Paswọọdụ siri ike na nkwenye nzọụkwụ abụọ",
+    "description": "",
+    "placeholder": true
+   },
+   "yo": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Ọ̀rọ̀ aṣínà tó lágbára àti ìfọwọ́sí onígbésẹ̀ méjì",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "otp-and-bank-alerts",
+  "category": "fraud",
+  "featured": false,
+  "important": true,
+  "relatedTopics": [
+   "payments",
+   "phishing"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "OTP safety and fake bank alerts",
+    "description": "",
+    "placeholder": true
+   },
+   "ha": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Tsaron OTP da saƙonnin banki na bogi",
+    "description": "",
+    "placeholder": true
+   },
+   "ig": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Nchekwa OTP na ọkwa ụlọ akụ ụgha",
+    "description": "",
+    "placeholder": true
+   },
+   "yo": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Ààbò OTP àti ìkìlọ̀ báǹkì èké",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "whatsapp-and-sim-safety",
+  "category": "awareness",
+  "featured": false,
+  "important": true,
+  "relatedTopics": [
+   "social-media",
+   "mobile"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Protect your WhatsApp and SIM",
+    "description": "",
+    "placeholder": true
+   },
+   "ha": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Kare WhatsApp da SIM ɗinka",
+    "description": "",
+    "placeholder": true
+   },
+   "ig": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Chebe WhatsApp na SIM gị",
+    "description": "",
+    "placeholder": true
+   },
+   "yo": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Dáàbò bo WhatsApp àti SIM rẹ",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "privacy-protect-your-data",
+  "category": "privacy",
+  "featured": false,
+  "important": false,
+  "relatedTopics": [
+   "privacy"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Protecting your personal data",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "students-digital-safety",
+  "category": "students",
+  "featured": false,
+  "important": false,
+  "relatedTopics": [
+   "students"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Digital safety for students",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "business-security-basics",
+  "category": "business",
+  "featured": false,
+  "important": false,
+  "relatedTopics": [
+   "business"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Cybersecurity basics for small businesses",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "hausa-tsaron-yanar-gizo",
+  "category": "hausa",
+  "featured": false,
+  "important": false,
+  "relatedTopics": [
+   "intro"
+  ],
+  "duration": "",
+  "variants": {
+   "ha": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Tsaron yanar gizo a Hausa",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ },
+ {
+  "id": "general-tech-for-beginners",
+  "category": "general",
+  "featured": false,
+  "important": false,
+  "relatedTopics": [
+   "intro"
+  ],
+  "duration": "",
+  "variants": {
+   "en": {
+    "youtubeId": "REPLACE_ME",
+    "title": "Technology awareness for beginners",
+    "description": "",
+    "placeholder": true
+   }
+  }
+ }
+]

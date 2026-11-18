@@ -1,0 +1,2260 @@
+[
+ {
+  "id": "leg-001",
+  "topic": "phishing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a common sign of a phishing email?",
+  "options": [
+   "It comes from a known contact",
+   "It contains urgent requests and suspicious links",
+   "It has a logo"
+  ],
+  "answer": 1,
+  "explanation": "Phishing messages usually pressure you to act fast and push you towards a link. A familiar logo proves nothing, because logos are easy to copy.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-002",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which of the following passwords is most secure?",
+  "options": [
+   "Password123",
+   "123456",
+   "Ht7$kL!92z"
+  ],
+  "answer": 2,
+  "explanation": "Length and variety make a password hard to guess. Short, common or predictable choices like “Password123” and “123456” are tried first by attackers.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-003",
+  "topic": "browsing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What does HTTPS indicate?",
+  "options": [
+   "The site is offline",
+   "A secure connection",
+   "It's a fake site"
+  ],
+  "answer": 1,
+  "explanation": "HTTPS means the connection between you and the site is encrypted. It does not prove the site is honest, so still check the address.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-004",
+  "topic": "malware",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is ransomware?",
+  "options": [
+   "Software that demands payment to unlock files",
+   "A type of firewall",
+   "A secure browser plugin"
+  ],
+  "answer": 0,
+  "explanation": "Ransomware locks or encrypts your files and demands payment. Offline backups are the best protection.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-005",
+  "topic": "wifi",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "How should you connect to public Wi-Fi safely?",
+  "options": [
+   "Without a password",
+   "Use a VPN",
+   "Log in to sensitive accounts"
+  ],
+  "answer": 1,
+  "explanation": "A VPN encrypts your traffic on a network you don’t control. Avoid logging in to sensitive accounts on public Wi-Fi where you can.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-007",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What makes a password strong?",
+  "options": [
+   "Your birthdate",
+   "A long phrase with numbers and symbols",
+   "The word \"password\""
+  ],
+  "answer": 1,
+  "explanation": "A long passphrase is much harder to guess than a short word. Never use birthdays or the word “password”.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-008",
+  "topic": "browsing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which URL is most secure to enter your credentials?",
+  "options": [
+   "http://example.com",
+   "https://example.com",
+   "example-site.com"
+  ],
+  "answer": 1,
+  "explanation": "Only enter credentials on addresses that start with https:// and belong to the real site. Plain http:// sends data unprotected.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-009",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a secure way to recover a forgotten password?",
+  "options": [
+   "Using a link from a suspicious email",
+   "Using official site’s password reset form",
+   "Asking a friend for help"
+  ],
+  "answer": 1,
+  "explanation": "Always use the official site or app’s reset form. Reset links in unexpected emails are a common phishing trick.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-010",
+  "topic": "network",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is the main goal of a firewall?",
+  "options": [
+   "Block spam emails",
+   "Prevent unauthorized access to a network",
+   "Store passwords securely"
+  ],
+  "answer": 1,
+  "explanation": "A firewall filters traffic and blocks unauthorised connections to your network or device.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-011",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "An email claims your account is locked and asks you to log in using a suspicious link.",
+  "q": "What is the most likely threat?",
+  "options": [
+   "Phishing",
+   "Whaling",
+   "Adware",
+   "Ransomware"
+  ],
+  "answer": 0,
+  "explanation": "An email that says your account is locked and pushes you to log in through a link is classic phishing. Open the official app or site yourself instead.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-012",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A login page looks like your bank’s, but the domain is \"secure-login-info.net\".",
+  "q": "What kind of attack is shown?",
+  "options": [
+   "Spoofed website",
+   "Man-in-the-middle",
+   "DNS hijack",
+   "Keylogging"
+  ],
+  "answer": 0,
+  "explanation": "A look-alike page on a different domain is a spoofed website. Always read the domain, not just the design.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-013",
+  "topic": "wifi",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user connects to public Wi-Fi without encryption while checking their bank account.",
+  "q": "What risk is involved here?",
+  "options": [
+   "Shoulder surfing",
+   "Eavesdropping",
+   "VPN tunneling",
+   "Session timeout"
+  ],
+  "answer": 1,
+  "explanation": "On an unencrypted network, other people can intercept what you send. That is eavesdropping.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-014",
+  "topic": "mobile",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A flashlight app requests access to your contacts, camera, and files.",
+  "q": "What is suspicious about this app?",
+  "options": [
+   "Excessive permissions",
+   "App size",
+   "UI bugs",
+   "Fast loading"
+  ],
+  "answer": 0,
+  "explanation": "A flashlight app has no reason to read your contacts or files. Permissions should match what the app does.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-015",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A fake antivirus alert says “Your PC is infected! Click here to fix.”",
+  "q": "What type of attack is likely happening?",
+  "options": [
+   "Malvertising",
+   "Phishing",
+   "Keylogger",
+   "Spyware"
+  ],
+  "answer": 0,
+  "explanation": "Fake virus alerts that push you to click or call are a form of malicious advertising (malvertising) and often lead to malware or scams.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-016",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A QR code on a flyer redirects users to a fake login page.",
+  "q": "What is this tactic called?",
+  "options": [
+   "QR phishing",
+   "QR hijack",
+   "Spoof attack",
+   "Formjacking"
+  ],
+  "answer": 0,
+  "explanation": "A QR code can hide a link to a fake login page. Scan only codes from sources you trust and check the address that opens.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-017",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A message appears: “Your files are encrypted. Pay Bitcoin to recover them.”",
+  "q": "What kind of malware is this?",
+  "options": [
+   "Spyware",
+   "Ransomware",
+   "Adware",
+   "Trojan"
+  ],
+  "answer": 1,
+  "explanation": "Files encrypted with a Bitcoin demand are ransomware. Don’t pay; disconnect the device and seek help.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-018",
+  "topic": "browsing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A browser extension asks for full access to “all websites you visit.”",
+  "q": "What is the concern with this request?",
+  "options": [
+   "Low memory",
+   "Malicious extension",
+   "Adblock conflict",
+   "Cookie settings"
+  ],
+  "answer": 1,
+  "explanation": "An extension that can read all your websites can see passwords and messages. Install only what you need, from trusted publishers.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-019",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A browser pop-up says “Verify your identity to continue” with a fake login form.",
+  "q": "What’s happening here?",
+  "options": [
+   "Clickjacking",
+   "Credential phishing",
+   "Session token leak",
+   "URL spoofing"
+  ],
+  "answer": 1,
+  "explanation": "A pop-up asking you to “verify your identity” is trying to steal your login details: credential phishing.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-020",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user enters a URL like \"gooogle.com\" and lands on a fake clone.",
+  "q": "What technique is used here?",
+  "options": [
+   "Typosquatting",
+   "Spoofing",
+   "DDoS",
+   "Credential stuffing"
+  ],
+  "answer": 0,
+  "explanation": "Typosquatting uses a misspelled web address (like “gooogle.com”) to trick people who mistype.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-021",
+  "topic": "scams",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A popup says “Call this number immediately to fix your computer virus.”",
+  "q": "What threat does this represent?",
+  "options": [
+   "Fake tech support",
+   "Patch update",
+   "Firewall prompt",
+   "Antivirus alert"
+  ],
+  "answer": 0,
+  "explanation": "Genuine companies don’t show pop-ups telling you to phone a number. This is a fake tech support scam.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-022",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user receives an SMS with a link claiming they’ve won a prize.",
+  "q": "What attack method is this?",
+  "options": [
+   "Smishing",
+   "Vishing",
+   "Whaling",
+   "Clickbait"
+  ],
+  "answer": 0,
+  "explanation": "Phishing by SMS is called smishing. Prize messages with links are a favourite scam.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-023",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A fake login form records everything typed.",
+  "q": "What is the threat technique used here?",
+  "options": [
+   "Keylogging",
+   "Spyware",
+   "Man-in-the-middle",
+   "Credential stuffing"
+  ],
+  "answer": 0,
+  "explanation": "A keylogger records what you type, including passwords. Fake forms and malware can both do this.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-024",
+  "topic": "social-media",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user posts their birthday, full name, and high school online.",
+  "q": "What risk does this behavior create?",
+  "options": [
+   "Social engineering",
+   "Data backup",
+   "Firewall breach",
+   "Pharming"
+  ],
+  "answer": 0,
+  "explanation": "Sharing your full name, birthday and school publicly gives scammers material for impersonation and social engineering.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-025",
+  "topic": "passwords",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A system sends a text code after password entry.",
+  "q": "What security measure is shown here?",
+  "options": [
+   "Two-factor authentication",
+   "Firewall rule",
+   "VPN login",
+   "Session timeout"
+  ],
+  "answer": 0,
+  "explanation": "A code sent to your phone after your password is two-factor authentication (2FA). It stops attackers who only know your password.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-026",
+  "topic": "social-engineering",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A stranger hands out free USB drives at an event.",
+  "q": "What should you suspect?",
+  "options": [
+   "Malware injection",
+   "Data recovery",
+   "USB charging",
+   "Drive testing"
+  ],
+  "answer": 0,
+  "explanation": "Unknown USB drives can carry malware. Never plug in a drive you were handed by a stranger.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-027",
+  "topic": "privacy",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A spreadsheet with thousands of emails and passwords is posted online.",
+  "q": "What incident has occurred?",
+  "options": [
+   "Data breach",
+   "VPN bypass",
+   "URL hijack",
+   "Cookie sniffing"
+  ],
+  "answer": 0,
+  "explanation": "Leaked lists of emails and passwords are the result of a data breach. Change reused passwords and enable 2FA.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-028",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A targeted message uses your name and job title, asking you to confirm payroll info.",
+  "q": "What phishing type is this?",
+  "options": [
+   "Spear phishing",
+   "Vishing",
+   "Whaling",
+   "Smishing"
+  ],
+  "answer": 0,
+  "explanation": "A message that uses your name and job title to make a request is spear phishing: targeted, not mass-mailed.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-029",
+  "topic": "browsing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A padlock icon is missing from a website’s address bar.",
+  "q": "What does this likely indicate?",
+  "options": [
+   "Site is not secure",
+   "Site is slow",
+   "Site is encrypted",
+   "Outdated browser"
+  ],
+  "answer": 0,
+  "explanation": "No padlock or HTTPS means the connection is not protected. Avoid entering any personal data.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-030",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A hidden service grants remote access to a system without user consent.",
+  "q": "What is this vulnerability called?",
+  "options": [
+   "Backdoor",
+   "Exploit",
+   "Session injection",
+   "Trojan"
+  ],
+  "answer": 0,
+  "explanation": "A backdoor is a hidden way into a system that bypasses normal login controls.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-031",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user receives a call claiming to be from their bank requesting their account number.",
+  "q": "What kind of attack is this?",
+  "options": [
+   "Vishing",
+   "Smishing",
+   "Whaling",
+   "Spear phishing"
+  ],
+  "answer": 0,
+  "explanation": "A caller claiming to be your bank and asking for details is vishing (voice phishing). Hang up and call the number on your card.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-032",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A browser extension injects ads into every site visited.",
+  "q": "What kind of software is this?",
+  "options": [
+   "Adware",
+   "Firewall",
+   "VPN",
+   "Rootkit"
+  ],
+  "answer": 0,
+  "explanation": "Software that injects ads into every page is adware. Remove the extension and scan your device.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-033",
+  "topic": "social-media",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A game site uses a Facebook login button to collect data.",
+  "q": "What risk might this pose?",
+  "options": [
+   "Over-permission",
+   "Cookie loss",
+   "Token backup",
+   "Local storage breach"
+  ],
+  "answer": 0,
+  "explanation": "Social login buttons on unfamiliar sites can share more of your data than you intend. Check what is requested.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-034",
+  "topic": "browsing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A warning urges you to install a browser update from an unknown source.",
+  "q": "What should you do?",
+  "options": [
+   "Ignore and check official update",
+   "Install immediately",
+   "Call tech support",
+   "Click to verify"
+  ],
+  "answer": 0,
+  "explanation": "Update software from the official source only. Pop-ups urging a browser update are a common malware trick.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-035",
+  "topic": "mobile",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "An app requests camera access to offer voice features.",
+  "q": "Why is this suspicious?",
+  "options": [
+   "Permission mismatch",
+   "Cloud sync",
+   "Wi-Fi scan",
+   "GPS access"
+  ],
+  "answer": 0,
+  "explanation": "Camera access for a voice feature doesn’t match. When a permission doesn’t fit the app’s purpose, deny it.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-036",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "Malware copies credentials from clipboard.",
+  "q": "What threat type is this?",
+  "options": [
+   "Clipper malware",
+   "Session replay",
+   "Keystroke injection",
+   "Cookie theft"
+  ],
+  "answer": 0,
+  "explanation": "Clipper malware swaps the wallet or account number you copied with the attacker’s. Always re-check before sending money.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-037",
+  "topic": "wifi",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "Someone offers to share their personal hotspot for free access.",
+  "q": "What is the risk?",
+  "options": [
+   "Network sniffing",
+   "IP theft",
+   "DNS poisoning",
+   "Cookie caching"
+  ],
+  "answer": 0,
+  "explanation": "A free hotspot from a stranger lets them watch your traffic (network sniffing). Use trusted networks.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-038",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A URL is shown as “paypal.com” but actually links to “paypa1.com”.",
+  "q": "What is this technique?",
+  "options": [
+   "Typosquatting",
+   "Link masking",
+   "Captcha bypass",
+   "MITM"
+  ],
+  "answer": 0,
+  "explanation": "Swapping a letter for a lookalike (“paypa1”) is typosquatting. Read addresses carefully.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-039",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A webcam light turns on by itself unexpectedly.",
+  "q": "What should you suspect?",
+  "options": [
+   "Remote access tool",
+   "USB fault",
+   "Power surge",
+   "Video glitch"
+  ],
+  "answer": 0,
+  "explanation": "A webcam light that turns on by itself can indicate a remote access tool. Disconnect, scan and change passwords.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-040",
+  "topic": "passwords",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user uses the same password for email, banking, and work accounts.",
+  "q": "What is the risk here?",
+  "options": [
+   "Credential stuffing",
+   "Password rotation",
+   "Token mismatch",
+   "Strong authentication"
+  ],
+  "answer": 0,
+  "explanation": "Reusing one password everywhere lets attackers try a leaked password on all your accounts: credential stuffing.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-042",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A tool secretly records user activity and sends it to a remote server.",
+  "q": "What is this software called?",
+  "options": [
+   "Spyware",
+   "VPN",
+   "Authenticator",
+   "Worm"
+  ],
+  "answer": 0,
+  "explanation": "Software that secretly records your activity and sends it away is spyware.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-043",
+  "topic": "browsing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A website lacks HTTPS and shows a “Not Secure” warning.",
+  "q": "What should you do?",
+  "options": [
+   "Avoid entering data",
+   "Click anyway",
+   "Enable Flash",
+   "Submit password"
+  ],
+  "answer": 0,
+  "explanation": "If a site isn’t HTTPS and shows “Not secure”, don’t enter data on it.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-044",
+  "topic": "social-engineering",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "Someone watches as you type your password on your phone in public.",
+  "q": "What tactic is this?",
+  "options": [
+   "Shoulder surfing",
+   "Pharming",
+   "Spoofing",
+   "Data breach"
+  ],
+  "answer": 0,
+  "explanation": "Watching someone type their password or PIN is shoulder surfing. Shield the screen and keypad.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-045",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "An email claims to be from your boss, but uses a public domain (e.g., Gmail).",
+  "q": "What should raise suspicion?",
+  "options": [
+   "Fake sender domain",
+   "BCC format",
+   "Salutation",
+   "Short message"
+  ],
+  "answer": 0,
+  "explanation": "A “boss” writing from a public email domain is a red flag. Confirm through a separate, known channel.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-046",
+  "topic": "scams",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A fake invoice arrives with a new bank account for payment.",
+  "q": "What attack does this represent?",
+  "options": [
+   "Invoice fraud",
+   "Browser spoofing",
+   "Cookie theft",
+   "SQL injection"
+  ],
+  "answer": 0,
+  "explanation": "A sudden change of bank details on an invoice is invoice fraud. Verify by phoning a known number before paying.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-047",
+  "topic": "passwords",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A password recovery form asks: “What’s your pet’s name?”",
+  "q": "What makes this insecure?",
+  "options": [
+   "Easily guessed question",
+   "Too short answer",
+   "Captcha bypass",
+   "Password reuse"
+  ],
+  "answer": 0,
+  "explanation": "Answers like a pet’s name can be found on social media. Use unique answers or skip such questions.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-048",
+  "topic": "network",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A router uses “admin/admin” as its login credentials.",
+  "q": "What’s the risk?",
+  "options": [
+   "Default password vulnerability",
+   "Overheating",
+   "Firmware corruption",
+   "Buffer overflow"
+  ],
+  "answer": 0,
+  "explanation": "Default logins such as admin/admin are widely known. Change router passwords at setup.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-049",
+  "topic": "wifi",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user activates a VPN before joining hotel Wi-Fi.",
+  "q": "Why is this good practice?",
+  "options": [
+   "Encrypts traffic on untrusted networks",
+   "Improves download speed",
+   "Hides email",
+   "Prevents popups"
+  ],
+  "answer": 0,
+  "explanation": "A VPN encrypts your traffic, which helps on untrusted networks like hotels and cafés.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-050",
+  "topic": "mobile",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A notification asks you to install security updates.",
+  "q": "What’s the best action?",
+  "options": [
+   "Install updates from trusted sources",
+   "Ignore all updates",
+   "Uninstall antivirus",
+   "Click suspicious links"
+  ],
+  "answer": 0,
+  "explanation": "Install updates only from your device’s official update system or app store.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-051",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "An email from “admin@secure-pay.com” asks for your payment information.",
+  "q": "What’s the most likely threat?",
+  "options": [
+   "Phishing",
+   "Safe login",
+   "Email validation",
+   "Domain control"
+  ],
+  "answer": 0,
+  "explanation": "A payment request from an unfamiliar look-alike address is most likely phishing. Verify through official channels.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-057",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A fake message appears to come from your CEO asking for an urgent wire transfer.",
+  "q": "What type of attack is this?",
+  "options": [
+   "Whaling",
+   "Smishing",
+   "Vishing",
+   "Data leak"
+  ],
+  "answer": 0,
+  "explanation": "Impersonating a senior executive to request urgent action is whaling, a form of targeted phishing.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-058",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A popup pretends to be a browser update but installs malware instead.",
+  "q": "What best describes this?",
+  "options": [
+   "Fake software update",
+   "Session hijack",
+   "Certificate error",
+   "Cookie sniffing"
+  ],
+  "answer": 0,
+  "explanation": "A fake “update” pop-up that installs malware is a common trick. Update only through official channels.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-063",
+  "topic": "wifi",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A public Wi-Fi warning pops up with \"Unsecured network.\"",
+  "q": "Safest response?",
+  "options": [
+   "Use the network anyway",
+   "Access banking apps quickly",
+   "Use a VPN before connecting",
+   "Disable antivirus"
+  ],
+  "answer": 2,
+  "explanation": "On a network flagged as unsecured, use a VPN or avoid sensitive tasks.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-065",
+  "topic": "passwords",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A password input with the example '123456'.",
+  "q": "How strong is the password?",
+  "options": [
+   "Strong",
+   "Moderate",
+   "Weak",
+   "Encrypted"
+  ],
+  "answer": 2,
+  "explanation": "“123456” is among the most common passwords and is guessed within seconds.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-066",
+  "topic": "social-engineering",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A message asks you to send a code urgently to help a \"friend\" locked out of their account.",
+  "q": "What tactic is used?",
+  "options": [
+   "Social engineering",
+   "Keylogging",
+   "VPN leak",
+   "Firewall bypass"
+  ],
+  "answer": 0,
+  "explanation": "Urgent requests to send a code “for a friend” are social engineering. Call the friend to confirm; never share one-time codes.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-067",
+  "topic": "mobile",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A mobile app on the store has poor reviews, suspicious grammar, and excessive permissions.",
+  "q": "What is the biggest red flag?",
+  "options": [
+   "Low battery usage",
+   "Fake app",
+   "App bundle",
+   "Signed app"
+  ],
+  "answer": 1,
+  "explanation": "Poor reviews and bad grammar suggest a fake app. Check the publisher and install only from official stores.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-068",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A website looks identical to your bank’s homepage but the URL says \"mybanc-login.com\".",
+  "q": "What is this an example of?",
+  "options": [
+   "Encrypted domain",
+   "Spoofed website",
+   "Login proxy",
+   "DDoS test"
+  ],
+  "answer": 1,
+  "explanation": "A page that looks identical but sits on a different address is a spoofed website.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-070",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A user visits a sketchy website and malware installs automatically without clicking anything.",
+  "q": "What kind of attack is this?",
+  "options": [
+   "Malvertising",
+   "Drive-by download",
+   "Browser redirect",
+   "Credential stuffing"
+  ],
+  "answer": 1,
+  "explanation": "Malware that installs just from visiting a site is a drive-by download. Keep browsers updated.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-071",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A poster on a public wall displays a QR code claiming to offer free Wi-Fi.",
+  "q": "What cyber threat could this represent?",
+  "options": [
+   "DNS attack",
+   "QR login",
+   "Phishing via QR code",
+   "Social login"
+  ],
+  "answer": 2,
+  "explanation": "A QR code on a wall can lead to a fake page: phishing via QR code. Check where it goes before you log in.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "leg-073",
+  "topic": "malware",
+  "type": "scenario",
+  "level": "intermediate",
+  "scenario": "A computer suddenly slows down, shows pop-ups, and antivirus is disabled.",
+  "q": "What is the most likely cause?",
+  "options": [
+   "Overheating",
+   "Malware infection",
+   "Wi-Fi issue",
+   "Keyboard error"
+  ],
+  "answer": 1,
+  "explanation": "Sudden slowness, pop-ups and disabled antivirus strongly suggest a malware infection.",
+  "source": "legacy-2025"
+ },
+ {
+  "id": "q-intro-01",
+  "topic": "intro",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is cybersecurity?",
+  "options": [
+   "Protecting devices, accounts and data from digital threats",
+   "Only buying antivirus software",
+   "Speeding up the internet"
+  ],
+  "answer": 0,
+  "explanation": "Cybersecurity is the practice of protecting people, devices, networks and data from digital attacks and misuse.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-intro-02",
+  "topic": "intro",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Who can be a target of cybercrime?",
+  "options": [
+   "Only large banks",
+   "Only government offices",
+   "Anyone who uses a phone, email or the internet"
+  ],
+  "answer": 2,
+  "explanation": "Criminals target everyone, because ordinary people often have fewer protections than organisations.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-intro-03",
+  "topic": "intro",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which habit protects you against the widest range of attacks?",
+  "options": [
+   "Keeping software updated and using unique passwords with 2FA",
+   "Using the same password everywhere so you remember it",
+   "Turning off all security alerts"
+  ],
+  "answer": 0,
+  "explanation": "Updates, unique passwords and two-factor authentication close the most common doors attackers use.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-intro-04",
+  "topic": "intro",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What does the “CIA triad” in security stand for?",
+  "options": [
+   "Confidentiality, Integrity, Availability",
+   "Control, Internet, Access",
+   "Cables, Internet, Antivirus"
+  ],
+  "answer": 0,
+  "explanation": "It describes three goals: keep data private, keep it accurate and unaltered, and keep it available when needed.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-intro-05",
+  "topic": "intro",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You see an alarming message about your account. What is the best first step?",
+  "options": [
+   "Click the link quickly before it’s too late",
+   "Pause, then check through the official app or website you open yourself",
+   "Forward it to everyone in your contacts"
+  ],
+  "answer": 1,
+  "explanation": "Attackers rely on rushing you. Slow down and verify through a channel you trust.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pw-01",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which is the strongest choice for an important account?",
+  "options": [
+   "Your phone number",
+   "A long passphrase of several unrelated words plus a number",
+   "Your date of birth"
+  ],
+  "answer": 1,
+  "explanation": "Length matters most. A passphrase of unrelated words is both strong and memorable.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pw-02",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What does a password manager do?",
+  "options": [
+   "Stores unique strong passwords for you behind one master password",
+   "Makes websites load faster",
+   "Removes all malware"
+  ],
+  "answer": 0,
+  "explanation": "A manager lets you use a different strong password everywhere without memorising them all.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pw-03",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Why is reusing one password on many accounts risky?",
+  "options": [
+   "It makes the password longer",
+   "If one site is breached, attackers can try it on your other accounts",
+   "It has no risk"
+  ],
+  "answer": 1,
+  "explanation": "Leaked passwords are tried on other sites automatically. Unique passwords limit the damage.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pw-04",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which second factor is generally safest?",
+  "options": [
+   "An authenticator app or a hardware security key",
+   "A code you read out to anyone who asks",
+   "Your mother’s maiden name"
+  ],
+  "answer": 0,
+  "explanation": "Authenticator apps and security keys are harder to intercept than SMS codes. Never share a code with anyone.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pw-05",
+  "topic": "passwords",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Someone claiming to be support asks for the one-time code just sent to you. What should you do?",
+  "options": [
+   "Give it to them to prove it’s you",
+   "Refuse. Real support never needs your one-time code",
+   "Send half of it"
+  ],
+  "answer": 1,
+  "explanation": "A one-time code is a key to your account. Anyone asking for it is trying to take it over.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ph-01",
+  "topic": "phishing",
+  "type": "scenario",
+  "level": "basic",
+  "scenario": "A text message creates urgency and asks for your BVN and OTP.",
+  "q": "A text says: “Your account will be blocked in 30 minutes. Confirm your BVN and OTP at bit.ly/xyz.” What is the best response?",
+  "options": [
+   "Tap the link and confirm quickly",
+   "Ignore the link and contact your bank using its official app or number",
+   "Reply with your BVN only"
+  ],
+  "answer": 1,
+  "explanation": "Banks don’t ask for OTPs or full details by SMS link. Contact the bank through official channels.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ph-02",
+  "topic": "phishing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which detail is the strongest sign of a phishing email?",
+  "options": [
+   "It uses your real name",
+   "The sender address doesn’t match the company’s real domain",
+   "It arrives in the morning"
+  ],
+  "answer": 1,
+  "explanation": "Check the actual sender address. Look-alike domains are a common trick.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ph-03",
+  "topic": "phishing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You hover over a link and the address shown is different from the text. What does that suggest?",
+  "options": [
+   "The link may lead somewhere other than it claims",
+   "The link is faster",
+   "The message is from a friend"
+  ],
+  "answer": 0,
+  "explanation": "Mismatched link text and destination is a classic phishing sign.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ph-04",
+  "topic": "phishing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You clicked a suspicious link and typed your password. What should you do first?",
+  "options": [
+   "Do nothing",
+   "Change that password at once on the real site, enable 2FA and check your account activity",
+   "Delete your email account"
+  ],
+  "answer": 1,
+  "explanation": "Act quickly: change the password (and anywhere you reused it), enable 2FA and review recent activity.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-se-01",
+  "topic": "social-engineering",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is social engineering?",
+  "options": [
+   "Manipulating people into giving up information or access",
+   "A way of building social media apps",
+   "A kind of firewall"
+  ],
+  "answer": 0,
+  "explanation": "Social engineering targets people rather than technology, using trust, urgency or fear.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-se-02",
+  "topic": "social-engineering",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A caller says they are from your telecom company and need your PIN “to fix a problem”. What should you do?",
+  "options": [
+   "Share it, they sound professional",
+   "Hang up and call the official number yourself",
+   "Ask them to send you a link"
+  ],
+  "answer": 1,
+  "explanation": "Never share PINs or codes on an incoming call. Call back using a number you find yourself.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-se-03",
+  "topic": "social-engineering",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which of these is a typical pressure tactic?",
+  "options": [
+   "“You have plenty of time to think about it.”",
+   "“Act now or lose your account!”",
+   "“You can check with your bank first.”"
+  ],
+  "answer": 1,
+  "explanation": "Urgency stops you from thinking. Slowing down is the best defence.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-se-04",
+  "topic": "social-engineering",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A stranger at the office door says they forgot their badge and asks to follow you inside. What is the safest action?",
+  "options": [
+   "Let them in to be polite",
+   "Politely direct them to reception to be verified",
+   "Give them your badge"
+  ],
+  "answer": 1,
+  "explanation": "Following someone through a secured door (tailgating) is a common physical attack. Use the proper process.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sc-01",
+  "topic": "scams",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "An “investment” promises 50% returns every week with no risk. What is the likely situation?",
+  "options": [
+   "A great opportunity",
+   "A scam. Guaranteed high returns with no risk are a major warning sign",
+   "A government scheme"
+  ],
+  "answer": 1,
+  "explanation": "Real investments carry risk. Promises of fast, guaranteed profit are typical of Ponzi and fake-investment schemes.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sc-02",
+  "topic": "scams",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You receive a message that you won a lottery you never entered. They ask for a “release fee”. What is this?",
+  "options": [
+   "An advance-fee scam",
+   "A real prize",
+   "A bank refund"
+  ],
+  "answer": 0,
+  "explanation": "If you must pay to receive a prize, it’s a scam.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sc-03",
+  "topic": "scams",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A new loan app asks for access to your contacts and photos before lending. What is the safest approach?",
+  "options": [
+   "Allow everything to get the loan",
+   "Avoid it. Use only licensed lenders and never give broad access to your data",
+   "Share it with friends"
+  ],
+  "answer": 1,
+  "explanation": "Some predatory loan apps misuse contacts and photos to harass borrowers. Use regulated lenders only.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sc-04",
+  "topic": "scams",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A buyer overpays you by cheque or transfer and asks you to refund the difference. What is going on?",
+  "options": [
+   "A kind customer",
+   "A likely overpayment scam. The original payment may be fake or reversed",
+   "A normal business practice"
+  ],
+  "answer": 1,
+  "explanation": "The scammer’s payment later fails, but your refund is real money gone.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sc-05",
+  "topic": "scams",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Someone you met online asks for money for an emergency but can’t video call. What does this suggest?",
+  "options": [
+   "A possible romance or impersonation scam",
+   "A busy person",
+   "A reliable friend"
+  ],
+  "answer": 0,
+  "explanation": "Avoid sending money to people you haven’t met in person, however convincing the story.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sc-06",
+  "topic": "scams",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Before buying from an unknown online shop, which check is most useful?",
+  "options": [
+   "Whether the page has nice photos",
+   "Searching for independent reviews and using pay-on-delivery or a protected payment method",
+   "Whether the price is very low"
+  ],
+  "answer": 1,
+  "explanation": "Fake shops copy nice designs. Independent reviews and protected payments reduce your risk.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sc-07",
+  "topic": "scams",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A job advert asks you to pay a fee to secure the position. What is the best action?",
+  "options": [
+   "Pay quickly before others do",
+   "Walk away. Genuine employers don’t charge applicants to hire them",
+   "Ask a friend to pay too"
+  ],
+  "answer": 1,
+  "explanation": "Fee-for-a-job requests are a common recruitment scam.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-mo-01",
+  "topic": "mobile",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which setting best protects your phone if it is lost or stolen?",
+  "options": [
+   "A strong screen lock plus find-my-device",
+   "No lock so you can open it fast",
+   "A simple 1234 PIN"
+  ],
+  "answer": 0,
+  "explanation": "A lock stops casual access, and find-my-device lets you locate, lock or erase the phone.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-mo-02",
+  "topic": "mobile",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Where should you install apps from?",
+  "options": [
+   "Any link sent on WhatsApp",
+   "The official app store",
+   "Random websites offering free paid apps"
+  ],
+  "answer": 1,
+  "explanation": "Official stores check apps. APK files from unknown sources often carry malware.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-mo-03",
+  "topic": "mobile",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Why install phone updates promptly?",
+  "options": [
+   "They fix security flaws attackers use",
+   "They use more data",
+   "They change your wallpaper"
+  ],
+  "answer": 0,
+  "explanation": "Updates patch known vulnerabilities.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-mo-04",
+  "topic": "mobile",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is SIM swap fraud?",
+  "options": [
+   "A criminal moves your number to their SIM to receive your calls and codes",
+   "Changing your phone network",
+   "Buying a second SIM"
+  ],
+  "answer": 0,
+  "explanation": "Once they control your number they can intercept OTPs. Contact your network provider immediately if your SIM suddenly stops working.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-mo-05",
+  "topic": "mobile",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Your phone suddenly loses all network signal and you didn’t do anything. What could be a warning sign?",
+  "options": [
+   "Possibly a SIM swap. Contact your network provider and bank immediately",
+   "Always a harmless fault",
+   "A new app update"
+  ],
+  "answer": 0,
+  "explanation": "Unexpected loss of service can mean your number was moved. Act fast.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-br-01",
+  "topic": "browsing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What should you check before typing a password on a website?",
+  "options": [
+   "That the address is the real site and starts with https://",
+   "That the page has a colourful design",
+   "That someone shared it on social media"
+  ],
+  "answer": 0,
+  "explanation": "Read the address carefully. Look-alike domains are common.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-br-02",
+  "topic": "browsing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A website offers a free download of paid software. What is the safest choice?",
+  "options": [
+   "Download it, it’s free",
+   "Avoid it. Cracked software often contains malware",
+   "Disable your antivirus first"
+  ],
+  "answer": 1,
+  "explanation": "Pirated software is a common way to spread malware.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-br-03",
+  "topic": "browsing",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What does incognito or private browsing do?",
+  "options": [
+   "Hides you from your internet provider and websites",
+   "Stops your browser saving history on that device only",
+   "Blocks malware"
+  ],
+  "answer": 1,
+  "explanation": "It doesn’t make you anonymous online. It only avoids saving history locally.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sm-01",
+  "topic": "social-media",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which information is risky to post publicly?",
+  "options": [
+   "A photo of your boarding pass or ID",
+   "A photo of a sunset",
+   "A public holiday greeting"
+  ],
+  "answer": 0,
+  "explanation": "Boarding passes, IDs and tickets contain details criminals can reuse.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sm-02",
+  "topic": "social-media",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A friend’s account sends you a strange link and asks for money. What should you do?",
+  "options": [
+   "Send the money",
+   "Contact your friend on another channel. The account may be hacked",
+   "Share the link"
+  ],
+  "answer": 1,
+  "explanation": "Hijacked accounts are used to scam contacts.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sm-03",
+  "topic": "social-media",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which privacy setting is wise for most personal accounts?",
+  "options": [
+   "Limit who can see your posts, contacts and phone number",
+   "Make everything public for more followers",
+   "Use the same password as email"
+  ],
+  "answer": 0,
+  "explanation": "Review settings regularly. The less public detail, the less scammers can use.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sm-04",
+  "topic": "social-media",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "WhatsApp sends you a 6-digit verification code you didn’t request. What does this mean?",
+  "options": [
+   "Someone may be trying to register your number. Do not share the code",
+   "You won a prize",
+   "You must reply with the code"
+  ],
+  "answer": 0,
+  "explanation": "Sharing it lets the attacker take over your WhatsApp. Enable two-step verification.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-sm-05",
+  "topic": "social-media",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a safe way to deal with a friend request from a stranger?",
+  "options": [
+   "Accept to be polite",
+   "Check mutual contacts and the profile, and decline if unsure",
+   "Send them your number"
+  ],
+  "answer": 1,
+  "explanation": "Fake profiles are used for scams and impersonation.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pv-01",
+  "topic": "privacy",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which is personal data you should protect?",
+  "options": [
+   "Your BVN, NIN and date of birth",
+   "The weather today",
+   "A public company name"
+  ],
+  "answer": 0,
+  "explanation": "Government IDs and financial identifiers should be shared only when truly necessary and with legitimate organisations.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pv-02",
+  "topic": "privacy",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Before an app collects your information, what should you ask?",
+  "options": [
+   "Does it really need this data and how will it be used?",
+   "How colourful is it?",
+   "How many downloads does it have?"
+  ],
+  "answer": 0,
+  "explanation": "Share the minimum data needed.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pv-03",
+  "topic": "privacy",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What does end-to-end encryption in a messaging app mean?",
+  "options": [
+   "Only you and the recipient can read the messages",
+   "The company can read all messages",
+   "Messages are stored forever"
+  ],
+  "answer": 0,
+  "explanation": "Only the people in the conversation have the keys to read the content.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pv-04",
+  "topic": "privacy",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which statement about data protection law in Nigeria is most accurate?",
+  "options": [
+   "Individuals have rights over how their personal data is handled under the Nigeria Data Protection Act",
+   "Companies can use your data however they like",
+   "There are no rules"
+  ],
+  "answer": 0,
+  "explanation": "The Nigeria Data Protection Act 2023 sets duties for organisations and rights for individuals. Read official guidance for details.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pv-05",
+  "topic": "privacy",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You’re asked for your NIN to enter a competition. What is the best approach?",
+  "options": [
+   "Provide it immediately",
+   "Ask why it’s needed and refuse if the reason isn’t clear and legitimate",
+   "Post it publicly"
+  ],
+  "answer": 1,
+  "explanation": "Share identity numbers only with organisations that have a genuine reason.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ml-01",
+  "topic": "malware",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which action best protects against ransomware?",
+  "options": [
+   "Keeping offline or cloud backups you can restore from",
+   "Paying quickly when asked",
+   "Disabling updates"
+  ],
+  "answer": 0,
+  "explanation": "With a good backup you can restore without paying.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ml-02",
+  "topic": "malware",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which is a typical way malware spreads?",
+  "options": [
+   "Unexpected email attachments and fake downloads",
+   "Reading a printed book",
+   "Turning your phone off"
+  ],
+  "answer": 0,
+  "explanation": "Don’t open unexpected attachments, and download only from trusted sources.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ml-03",
+  "topic": "malware",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Your device seems infected. What is a sensible first step?",
+  "options": [
+   "Disconnect from the internet and run a trusted security scan",
+   "Share your passwords",
+   "Ignore it"
+  ],
+  "answer": 0,
+  "explanation": "Cutting the connection limits spread and data loss.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-nw-01",
+  "topic": "network",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is the first thing to change on a new home router?",
+  "options": [
+   "The default admin password",
+   "Nothing",
+   "The router colour"
+  ],
+  "answer": 0,
+  "explanation": "Default passwords are widely known. Use a long unique one.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-nw-02",
+  "topic": "network",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What does a firewall do?",
+  "options": [
+   "Filters network traffic according to security rules",
+   "Makes your signal stronger",
+   "Stores your photos"
+  ],
+  "answer": 0,
+  "explanation": "A firewall blocks unwanted connections.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-nw-03",
+  "topic": "network",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Why should you update router firmware?",
+  "options": [
+   "To fix security vulnerabilities",
+   "To change the Wi-Fi name",
+   "It has no benefit"
+  ],
+  "answer": 0,
+  "explanation": "Manufacturers release updates to patch security holes.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-wf-01",
+  "topic": "wifi",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which Wi-Fi security setting is best for your home network today?",
+  "options": [
+   "WPA3, or WPA2 if WPA3 isn’t available",
+   "Open, with no password",
+   "WEP"
+  ],
+  "answer": 0,
+  "explanation": "Use the strongest supported protocol and a long passphrase.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-wf-02",
+  "topic": "wifi",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You see two networks named “Airport_Free_WiFi” and “AirportWiFi”. What should you do?",
+  "options": [
+   "Join the stronger one",
+   "Ask staff for the official network name",
+   "Join both"
+  ],
+  "answer": 1,
+  "explanation": "Attackers create look-alike hotspots (evil twins).",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-id-01",
+  "topic": "identity-theft",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which is an early warning sign of identity theft?",
+  "options": [
+   "Transactions or accounts you don’t recognise",
+   "A new wallpaper",
+   "A longer commute"
+  ],
+  "answer": 0,
+  "explanation": "Review statements and alerts regularly.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-id-02",
+  "topic": "identity-theft",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "How should you dispose of papers containing personal details?",
+  "options": [
+   "Shred or destroy them",
+   "Leave them in the bin whole",
+   "Post them online"
+  ],
+  "answer": 0,
+  "explanation": "Criminals can reuse documents like bank statements and ID copies.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-id-03",
+  "topic": "identity-theft",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Someone uses your details to open an account. What should you do?",
+  "options": [
+   "Report it to the institution and relevant authorities and secure your accounts",
+   "Wait to see what happens",
+   "Ignore it"
+  ],
+  "answer": 0,
+  "explanation": "Speed limits damage. Keep records of what you report.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-id-04",
+  "topic": "identity-theft",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "When sharing a photocopy of your ID card, what is a good habit?",
+  "options": [
+   "Write the purpose and date across it",
+   "Give it to anyone who asks",
+   "Post it for verification"
+  ],
+  "answer": 0,
+  "explanation": "Marking a copy with its purpose makes misuse harder.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-st-01",
+  "topic": "students",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You get a message offering a scholarship if you pay a processing fee. What is the likely situation?",
+  "options": [
+   "A scholarship scam",
+   "A normal process",
+   "Guaranteed funding"
+  ],
+  "answer": 0,
+  "explanation": "Legitimate scholarships don’t ask applicants for money to be selected.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-st-02",
+  "topic": "students",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Why shouldn’t you share your student portal password with friends?",
+  "options": [
+   "They could change your records or misuse your account",
+   "It’s fine if they are trusted",
+   "Portals don’t need passwords"
+  ],
+  "answer": 0,
+  "explanation": "Shared credentials can lead to account misuse you are responsible for.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-st-03",
+  "topic": "students",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which is safest on shared university computers?",
+  "options": [
+   "Log out completely and don’t save passwords in the browser",
+   "Stay logged in",
+   "Save all passwords"
+  ],
+  "answer": 0,
+  "explanation": "Always sign out and clear saved sessions.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-st-04",
+  "topic": "students",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Free study app asks for access to your contacts and microphone. What do you do?",
+  "options": [
+   "Deny permissions it doesn’t need",
+   "Allow all",
+   "Share it with classmates first"
+  ],
+  "answer": 0,
+  "explanation": "Apps should only request what they need.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-bz-01",
+  "topic": "business",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a simple first step for an SME to reduce cyber risk?",
+  "options": [
+   "Use unique passwords, 2FA and regular backups",
+   "Buy more printers",
+   "Share one login among staff"
+  ],
+  "answer": 0,
+  "explanation": "Basic hygiene prevents most common attacks.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-bz-02",
+  "topic": "business",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Your accountant emails new bank details for a supplier payment. What should you do?",
+  "options": [
+   "Pay immediately",
+   "Confirm by phoning a known number before paying",
+   "Reply asking for the CVV"
+  ],
+  "answer": 1,
+  "explanation": "Business email compromise relies on fake changes of payment details.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-bz-03",
+  "topic": "business",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Why should staff have only the access they need?",
+  "options": [
+   "Limiting access reduces damage if an account is compromised",
+   "It slows work",
+   "It is a legal requirement everywhere"
+  ],
+  "answer": 0,
+  "explanation": "This is the principle of least privilege.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-bz-04",
+  "topic": "business",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Where should business backups be kept?",
+  "options": [
+   "Somewhere separate from the main system, and tested",
+   "Only on the same laptop",
+   "Nowhere"
+  ],
+  "answer": 0,
+  "explanation": "A backup that is attached to the infected system can be lost too.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-bz-05",
+  "topic": "business",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A former employee still has access to company accounts. What should you do?",
+  "options": [
+   "Remove their access promptly",
+   "Leave it",
+   "Share the password with others"
+  ],
+  "answer": 0,
+  "explanation": "Offboarding should include revoking all access.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-or-01",
+  "topic": "organisations",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is the purpose of cybersecurity awareness training in an organisation?",
+  "options": [
+   "To help staff recognise and report threats",
+   "To replace technical controls",
+   "To punish mistakes"
+  ],
+  "answer": 0,
+  "explanation": "People are a key line of defence. Training works best alongside technical controls.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-or-02",
+  "topic": "organisations",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a good culture around reporting suspicious emails?",
+  "options": [
+   "Make reporting easy and blame-free",
+   "Hide mistakes",
+   "Report only after damage"
+  ],
+  "answer": 0,
+  "explanation": "Quick reporting helps stop incidents early.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-or-03",
+  "topic": "organisations",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is an incident response plan?",
+  "options": [
+   "A prepared set of steps and contacts for handling a security incident",
+   "A password list",
+   "A lunch menu"
+  ],
+  "answer": 0,
+  "explanation": "Preparing before an incident saves time when it matters.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-or-04",
+  "topic": "organisations",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which policy helps protect staff using personal phones for work?",
+  "options": [
+   "Screen locks, updates and the ability to remotely wipe work data",
+   "No rules",
+   "Sharing one phone"
+  ],
+  "answer": 0,
+  "explanation": "Basic mobile device rules reduce risk.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pm-01",
+  "topic": "payments",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Who may legitimately ask for your card PIN or OTP?",
+  "options": [
+   "Nobody. Never share them",
+   "The bank by phone",
+   "The shop assistant"
+  ],
+  "answer": 0,
+  "explanation": "Your PIN and OTP are for you alone.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pm-02",
+  "topic": "payments",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a safe habit at an ATM or POS?",
+  "options": [
+   "Shield the keypad and don’t accept help from strangers",
+   "Share your PIN to speed things up",
+   "Leave the receipt"
+  ],
+  "answer": 0,
+  "explanation": "Watch for shoulder surfing and tampered machines.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pm-03",
+  "topic": "payments",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You get a debit alert for a transaction you didn’t make. What should you do first?",
+  "options": [
+   "Contact your bank immediately through official channels and block the card",
+   "Wait a week",
+   "Reply to the SMS"
+  ],
+  "answer": 0,
+  "explanation": "Speed matters. Use the bank’s official app or number.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pm-04",
+  "topic": "payments",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "A seller asks you to pay by gift cards or to a personal account for a “deposit”. What is the safest approach?",
+  "options": [
+   "Don’t pay. Use protected payment methods",
+   "Pay quickly",
+   "Send half now"
+  ],
+  "answer": 0,
+  "explanation": "Untraceable payments are favoured by scammers.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pm-05",
+  "topic": "payments",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Before you confirm a transfer, what should you double-check?",
+  "options": [
+   "The account name and number shown",
+   "The colour of the app",
+   "The time of day"
+  ],
+  "answer": 0,
+  "explanation": "Confirm the beneficiary name before sending.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-pm-06",
+  "topic": "payments",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a good habit for online shopping?",
+  "options": [
+   "Use a virtual or low-balance card and check statements",
+   "Save your card on every site",
+   "Share your CVV by chat"
+  ],
+  "answer": 0,
+  "explanation": "Limiting exposure reduces the loss if details leak.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ai-01",
+  "topic": "ai",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which statement about AI chatbots is the safest to follow?",
+  "options": [
+   "Don’t paste passwords, ID numbers or confidential data into them",
+   "Share anything, they are private",
+   "They are always correct"
+  ],
+  "answer": 0,
+  "explanation": "Treat chat inputs as potentially stored or reviewed.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ai-02",
+  "topic": "ai",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "What is a deepfake?",
+  "options": [
+   "Synthetic audio, image or video that imitates a real person",
+   "A deep-sea video",
+   "A fast computer"
+  ],
+  "answer": 0,
+  "explanation": "Deepfakes can be used to impersonate people in scams.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ai-03",
+  "topic": "ai",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "You receive a voice note that sounds like a relative asking for urgent money. What should you do?",
+  "options": [
+   "Verify by calling them back on a known number",
+   "Send the money immediately",
+   "Share it widely"
+  ],
+  "answer": 0,
+  "explanation": "Voice cloning exists. Always verify through a second channel.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ai-04",
+  "topic": "ai",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "How can attackers use AI?",
+  "options": [
+   "To write convincing phishing messages at scale",
+   "To make passwords stronger",
+   "They cannot use AI"
+  ],
+  "answer": 0,
+  "explanation": "AI can polish scam messages, so don’t rely on spotting spelling errors alone.",
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "id": "q-ai-05",
+  "topic": "ai",
+  "type": "knowledge",
+  "level": "basic",
+  "scenario": null,
+  "q": "Which is a good practice when using AI answers?",
+  "options": [
+   "Verify important facts from trusted sources",
+   "Trust them for medical or legal decisions",
+   "Copy without checking"
+  ],
+  "answer": 0,
+  "explanation": "AI can be wrong while sounding confident.",
+  "source": "cloudsentinel-2026"
+ }
+]

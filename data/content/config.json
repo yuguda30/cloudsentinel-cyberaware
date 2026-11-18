@@ -1,0 +1,25 @@
+{
+ "siteName": "CloudSentinel CyberAware",
+ "baseUrl": "https://yuguda30.github.io/Cyberaware/",
+ "contactEmail": "cybercloudng@gmail.com",
+ "githubUrl": "https://github.com/yuguda30/Cyberaware",
+ "social": {
+  "linkedin": "",
+  "x": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+  "whatsapp": "",
+  "telegram": ""
+ },
+ "newsletter": {
+  "endpoint": "",
+  "method": "POST",
+  "fieldName": "email"
+ },
+ "features": {
+  "newsletter": true
+ },
+ "mainWebsiteUrl": "",
+ "mainWebsiteLabel": "CloudSentinel Technologies"
+}

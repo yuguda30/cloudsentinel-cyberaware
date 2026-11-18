@@ -1,0 +1,182 @@
+[
+ {
+  "id": "tip-001",
+  "category": "general",
+  "text": "Pause before you click. Urgency is the scammer’s favourite tool."
+ },
+ {
+  "id": "tip-002",
+  "category": "general",
+  "text": "Install updates. They fix the security holes attackers use."
+ },
+ {
+  "id": "tip-003",
+  "category": "general",
+  "text": "Back up your important files in two places, and test that you can restore them."
+ },
+ {
+  "id": "tip-004",
+  "category": "general",
+  "text": "If you wouldn’t tell a stranger, don’t post it publicly."
+ },
+ {
+  "id": "tip-005",
+  "category": "passwords",
+  "text": "Use a long passphrase of unrelated words instead of a short complicated password."
+ },
+ {
+  "id": "tip-006",
+  "category": "passwords",
+  "text": "Never reuse a password. One leak should not open all your accounts."
+ },
+ {
+  "id": "tip-007",
+  "category": "passwords",
+  "text": "Turn on two-factor authentication for email, banking and social media."
+ },
+ {
+  "id": "tip-008",
+  "category": "passwords",
+  "text": "Never share a one-time code (OTP) with anyone, even if they say they are from your bank."
+ },
+ {
+  "id": "tip-009",
+  "category": "phishing",
+  "text": "Don’t trust links in messages. Open the official app or type the address yourself."
+ },
+ {
+  "id": "tip-010",
+  "category": "phishing",
+  "text": "Check the sender’s full address. Look-alike domains are common."
+ },
+ {
+  "id": "tip-011",
+  "category": "phishing",
+  "text": "A message that mixes fear, a deadline and a link is a classic scam pattern."
+ },
+ {
+  "id": "tip-012",
+  "category": "phishing",
+  "text": "Real banks never ask for your PIN, OTP or password by SMS, call or chat."
+ },
+ {
+  "id": "tip-013",
+  "category": "mobile",
+  "text": "Use a strong screen lock and turn on find-my-device."
+ },
+ {
+  "id": "tip-014",
+  "category": "mobile",
+  "text": "Install apps only from your official app store, not from links sent in chats."
+ },
+ {
+  "id": "tip-015",
+  "category": "mobile",
+  "text": "If your phone suddenly loses all signal, call your network provider. It could be a SIM swap."
+ },
+ {
+  "id": "tip-016",
+  "category": "mobile",
+  "text": "Deny app permissions that don’t match what the app does."
+ },
+ {
+  "id": "tip-017",
+  "category": "social",
+  "text": "Turn on two-step verification on WhatsApp and never share its 6-digit code."
+ },
+ {
+  "id": "tip-018",
+  "category": "social",
+  "text": "Don’t post photos of IDs, boarding passes or tickets."
+ },
+ {
+  "id": "tip-019",
+  "category": "social",
+  "text": "If a friend suddenly asks for money, call them first. Their account may be hijacked."
+ },
+ {
+  "id": "tip-020",
+  "category": "social",
+  "text": "Review who can see your posts, photos and phone number every few months."
+ },
+ {
+  "id": "tip-021",
+  "category": "banking",
+  "text": "Use your bank’s official app or the number on your card. Never numbers from a message."
+ },
+ {
+  "id": "tip-022",
+  "category": "banking",
+  "text": "Check the beneficiary name before confirming a transfer."
+ },
+ {
+  "id": "tip-023",
+  "category": "banking",
+  "text": "Shield your PIN at ATMs and POS terminals, and don’t accept help from strangers."
+ },
+ {
+  "id": "tip-024",
+  "category": "banking",
+  "text": "Set transaction alerts so you notice unusual debits quickly."
+ },
+ {
+  "id": "tip-025",
+  "category": "privacy",
+  "text": "Share only the personal data that is really needed."
+ },
+ {
+  "id": "tip-026",
+  "category": "privacy",
+  "text": "Write the purpose and date across photocopies of your ID."
+ },
+ {
+  "id": "tip-027",
+  "category": "privacy",
+  "text": "Shred papers with account numbers and personal details."
+ },
+ {
+  "id": "tip-028",
+  "category": "privacy",
+  "text": "Don’t paste passwords or private data into AI chat tools."
+ },
+ {
+  "id": "tip-029",
+  "category": "browsing",
+  "text": "Check the web address before you type a password. The real site is before the first single slash."
+ },
+ {
+  "id": "tip-030",
+  "category": "browsing",
+  "text": "Pop-ups that scare you (“your phone is infected”) are almost always scams. Close them."
+ },
+ {
+  "id": "tip-031",
+  "category": "browsing",
+  "text": "Avoid cracked or pirated software. It often comes with malware."
+ },
+ {
+  "id": "tip-032",
+  "category": "browsing",
+  "text": "On public Wi-Fi, avoid banking. Use mobile data instead."
+ },
+ {
+  "id": "tip-033",
+  "category": "scams",
+  "text": "If it promises guaranteed high returns with no risk, it’s a scam."
+ },
+ {
+  "id": "tip-034",
+  "category": "scams",
+  "text": "Never pay a fee to receive a prize, job, loan or scholarship."
+ },
+ {
+  "id": "tip-035",
+  "category": "scams",
+  "text": "Verify urgent money requests with a call to a number you already know."
+ },
+ {
+  "id": "tip-036",
+  "category": "scams",
+  "text": "Talk to someone you trust before you send money. Scammers hate a second opinion."
+ }
+]

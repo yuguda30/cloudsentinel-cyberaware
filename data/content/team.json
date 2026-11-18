@@ -1,0 +1,64 @@
+{
+ "members": [
+  {
+   "id": "muhammad-yuguda",
+   "initials": "MY",
+   "name": "Muhammad Yuguda",
+   "role": "Founder / Lead Strategist",
+   "bio": "Leading CloudSentinel’s vision and strategy across cybersecurity, compliance support, digital transformation, and AI/software project direction.",
+   "expertise": [],
+   "photo": "",
+   "links": {
+    "linkedin": ""
+   }
+  },
+  {
+   "id": "bello-halliru-umar",
+   "initials": "BU",
+   "name": "Bello Halliru Umar",
+   "role": "Co-Founder / CTO",
+   "bio": "Overseeing technical operations including cybersecurity, IT infrastructure, compliance support, identity services, and data collection systems.",
+   "expertise": [],
+   "photo": "",
+   "links": {
+    "linkedin": ""
+   }
+  },
+  {
+   "id": "usman-dahiru-danwaziri",
+   "initials": "DW",
+   "name": "Usman Dahiru Danwaziri",
+   "role": "Chief Operation Officer",
+   "bio": "Cybersecurity & Development Specialist, specialising in secure software development, digital systems architecture, and web platform creation with security best practices.",
+   "expertise": [],
+   "photo": "",
+   "links": {
+    "linkedin": ""
+   }
+  },
+  {
+   "id": "abubakar-dayyabu",
+   "initials": "AB",
+   "name": "Abubakar Dayyabu",
+   "role": "Cybersecurity Awareness & Training",
+   "bio": "Driving cybersecurity education programs, digital safety campaigns, and community awareness initiatives across organizations.",
+   "expertise": [],
+   "photo": "",
+   "links": {
+    "linkedin": ""
+   }
+  },
+  {
+   "id": "mubarak-bala-dankasa",
+   "initials": "MB",
+   "name": "Mubarak Bala Dankasa",
+   "role": "Digital Innovation & Training Lead",
+   "bio": "Digital instructor, web developer, and agritech consultant focused on digital transformation.",
+   "expertise": [],
+   "photo": "",
+   "links": {
+    "linkedin": ""
+   }
+  }
+ ]
+}

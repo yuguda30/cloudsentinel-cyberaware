@@ -1,0 +1,645 @@
+[
+ {
+  "id": "phishing-awareness",
+  "topic": "phishing",
+  "category": "phishing",
+  "featured": true,
+  "date": "2025",
+  "datePrecision": "year",
+  "author": "CloudSentinel Technologies",
+  "title": "Phishing Awareness",
+  "summary": "Phishing is a widespread cyber threat where attackers impersonate trusted sources like banks, social platforms, or service providers to trick users into revealing sensitive data. These…",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Phishing is a widespread cyber threat where attackers impersonate trusted sources like banks, social platforms, or service providers to trick users into revealing sensitive data. These messages may appear via email , text (smishing) , voice (vishing) , or social media ."
+   },
+   {
+    "t": "h",
+    "x": "How to Spot a Phishing Attempt"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Check the sender's email address",
+      "x": "Look for suspicious or misspelled domains."
+     },
+     {
+      "b": "Watch for generic greetings",
+      "x": "Messages like \"Dear Customer\" instead of your real name."
+     },
+     {
+      "b": "Look out for urgency or threats",
+      "x": "e.g., \"Verify now or your account will be locked.\""
+     },
+     {
+      "b": "Hover over links",
+      "x": "Preview the URL before clicking — phishing links often disguise malicious sites."
+     },
+     {
+      "b": "Check for grammar/spelling errors",
+      "x": "Many scams contain awkward wording or formatting."
+     }
+    ]
+   },
+   {
+    "t": "example",
+    "title": "Example: Fake Bank Email",
+    "lines": [
+     "Subject:",
+     "⚠️ Your Account Has Been Suspended",
+     "Message:",
+     "Dear user,",
+     "We noticed suspicious activity on your account. For your protection, it has been temporarily suspended.",
+     "Please click the link below to verify your identity:",
+     "👉",
+     "http://secure-login-bank-alert.ru",
+     "Red Flags:",
+     "Generic greeting, urgency tactic, suspicious link, fake domain."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "What to Do If You Suspect Phishing"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "x": "Never click suspicious links or open unexpected attachments."
+     },
+     {
+      "x": "Report the message to your IT department or email provider."
+     },
+     {
+      "x": "Delete the email immediately."
+     },
+     {
+      "x": "If you clicked, change your password and enable two-factor authentication."
+     }
+    ]
+   }
+  ],
+  "source": "legacy-2025",
+  "readMinutes": 2
+ },
+ {
+  "id": "password-security",
+  "topic": "passwords",
+  "category": "passwords",
+  "featured": true,
+  "date": "2025",
+  "datePrecision": "year",
+  "author": "CloudSentinel Technologies",
+  "title": "Password Security",
+  "summary": "A strong password is the first line of defense against unauthorized access to your accounts. Unfortunately, many users still rely on weak, reused, or guessable passwords, making them…",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "A strong password is the first line of defense against unauthorized access to your accounts. Unfortunately, many users still rely on weak, reused, or guessable passwords, making them easy targets for brute-force attacks or credential stuffing."
+   },
+   {
+    "t": "h",
+    "x": "Best Practices for Secure Passwords"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Use 12+ characters",
+      "x": "Longer passwords are exponentially harder to crack."
+     },
+     {
+      "b": "Include uppercase, lowercase, numbers, and symbols",
+      "x": "Add complexity to reduce predictability."
+     },
+     {
+      "b": "Avoid personal information",
+      "x": "Never use your name, birthdate, or common words like \"password\"."
+     },
+     {
+      "b": "Use a password manager",
+      "x": "Tools like Bitwarden, 1Password, or LastPass can generate and store secure passwords."
+     },
+     {
+      "b": "Enable Multi-Factor Authentication (MFA)",
+      "x": "Adds a second layer of security even if your password is compromised."
+     }
+    ]
+   },
+   {
+    "t": "example",
+    "title": "Example: Strong vs Weak Password",
+    "lines": [
+     "Weak:",
+     "password123",
+     "Why it’s weak:",
+     "Short, predictable, widely used in breaches.",
+     "Strong:",
+     "G@rdenB0x#2024",
+     "Why it’s strong:",
+     "13 characters, symbols, numbers, no personal info."
+    ]
+   }
+  ],
+  "source": "legacy-2025",
+  "readMinutes": 2
+ },
+ {
+  "id": "safe-browsing",
+  "topic": "browsing",
+  "category": "browsing",
+  "featured": false,
+  "date": "2025",
+  "datePrecision": "year",
+  "author": "CloudSentinel Technologies",
+  "title": "Safe Browsing",
+  "summary": "Every time you open a browser, you're stepping into a digital landscape filled with helpful information — but also potential threats. Safe browsing helps you avoid malware, scams, and…",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Every time you open a browser, you're stepping into a digital landscape filled with helpful information — but also potential threats. Safe browsing helps you avoid malware, scams, and data theft."
+   },
+   {
+    "t": "h",
+    "x": "Key Tips for Secure Web Browsing"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Look for HTTPS and padlock",
+      "x": "Signals that data is encrypted in transit."
+     },
+     {
+      "b": "Be cautious of pop-ups",
+      "x": "Avoid unexpected software downloads."
+     },
+     {
+      "b": "Keep browser updated",
+      "x": "Fixes security vulnerabilities."
+     },
+     {
+      "b": "Download only from trusted sources",
+      "x": "Use official app stores."
+     },
+     {
+      "b": "Use security settings",
+      "x": "Enable phishing protection, disable auto-fill on public devices."
+     }
+    ]
+   },
+   {
+    "t": "example",
+    "title": "Example: Secure vs Insecure Site",
+    "lines": [
+     "Secure:",
+     "https://www.example.com",
+     "🔒 — padlock icon, no warnings.",
+     "Insecure:",
+     "http://example-login.ru",
+     "⚠️ — no encryption, flagged as unsafe."
+    ]
+   }
+  ],
+  "source": "legacy-2025",
+  "readMinutes": 2
+ },
+ {
+  "id": "wifi-security",
+  "topic": "wifi",
+  "category": "wifi",
+  "featured": false,
+  "date": "2025",
+  "datePrecision": "year",
+  "author": "CloudSentinel Technologies",
+  "title": "Wireless (Wi-Fi) Security",
+  "summary": "Whether at home or on public networks, Wi-Fi convenience comes with risks. Unsecured networks can expose your data or allow attackers access.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Whether at home or on public networks, Wi-Fi convenience comes with risks. Unsecured networks can expose your data or allow attackers access."
+   },
+   {
+    "t": "h",
+    "x": "Public Wi-Fi Risks"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Unencrypted connections",
+      "x": "Others on the network can sniff your traffic."
+     },
+     {
+      "b": "Fake hotspots",
+      "x": "Attackers set up look-alike SSIDs like “FreeCafeWiFi.”"
+     },
+     {
+      "b": "Man-in-the-middle attacks",
+      "x": "Malicious device intercepts your data."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Safe Practices"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Use a VPN",
+      "x": "Encrypts your traffic on public networks."
+     },
+     {
+      "b": "Avoid sensitive activities",
+      "x": "No banking on public Wi-Fi."
+     },
+     {
+      "b": "Disable auto-connect",
+      "x": "Prevent automatic joins."
+     },
+     {
+      "b": "Forget networks after use",
+      "x": "Don’t stay connected."
+     }
+    ]
+   }
+  ],
+  "source": "legacy-2025",
+  "readMinutes": 2
+ },
+ {
+  "id": "social-media-security",
+  "topic": "social-media",
+  "category": "social-media",
+  "featured": false,
+  "date": "2025",
+  "datePrecision": "year",
+  "author": "CloudSentinel Technologies",
+  "title": "Social Media Security",
+  "summary": "Social platforms expose users to privacy risks, identity theft, and scams. From fake profiles to data scraping, every interaction matters.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Social platforms expose users to privacy risks, identity theft, and scams. From fake profiles to data scraping, every interaction matters."
+   },
+   {
+    "t": "h",
+    "x": "Privacy Risks of Oversharing"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Public posts",
+      "x": "Reveal personal details used in scams."
+     },
+     {
+      "b": "Photo metadata",
+      "x": "Location & timestamps embedded in images."
+     },
+     {
+      "b": "Data scraping",
+      "x": "Scammers build profiles with your info."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Staying Safe"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Adjust privacy settings",
+      "x": "Limit who sees your content."
+     },
+     {
+      "b": "Be selective with friend requests",
+      "x": "Don’t accept strangers."
+     },
+     {
+      "b": "Avoid real-time locations",
+      "x": "Post after you leave."
+     },
+     {
+      "b": "Limit bio info",
+      "x": "No phone numbers or addresses."
+     },
+     {
+      "b": "Turn off auto tags",
+      "x": "Disable facial recognition features."
+     }
+    ]
+   }
+  ],
+  "source": "legacy-2025",
+  "readMinutes": 2
+ },
+ {
+  "id": "malware-awareness",
+  "topic": "malware",
+  "category": "malware",
+  "featured": false,
+  "date": "2025",
+  "datePrecision": "year",
+  "author": "CloudSentinel Technologies",
+  "title": "Malware Awareness",
+  "summary": "Malware—malicious software—disrupts, damages, or gains unauthorized access to systems. It ranges from viruses to ransomware and spyware.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Malware—malicious software—disrupts, damages, or gains unauthorized access to systems. It ranges from viruses to ransomware and spyware."
+   },
+   {
+    "t": "h",
+    "x": "Common Types"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Viruses",
+      "x": "Attach to files, spread when executed."
+     },
+     {
+      "b": "Worms",
+      "x": "Self-replicating, spread without user action."
+     },
+     {
+      "b": "Trojans",
+      "x": "Disguised as legit software."
+     },
+     {
+      "b": "Ransomware",
+      "x": "Encrypts files, demands payment."
+     },
+     {
+      "b": "Spyware",
+      "x": "Monitors activity, steals data."
+     },
+     {
+      "b": "Adware",
+      "x": "Displays unwanted ads, tracks behavior."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Protection Tips"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Use antivirus",
+      "x": "Keep it updated, scan regularly."
+     },
+     {
+      "b": "Update software",
+      "x": "Apply security patches promptly."
+     },
+     {
+      "b": "Avoid pirated downloads",
+      "x": "Even cracked files carry malware."
+     },
+     {
+      "b": "Review extensions",
+      "x": "Only install trusted browser add-ons."
+     }
+    ]
+   },
+   {
+    "t": "example",
+    "title": "Example: Malware via Download",
+    "lines": [
+     "Scenario: You download “free” video editing software from an unofficial site. Your PC slows, ads appear, tabs open randomly.",
+     "Lesson: Always download from verified sources and scan files before running."
+    ]
+   }
+  ],
+  "source": "legacy-2025",
+  "readMinutes": 2
+ },
+ {
+  "id": "fake-bank-alerts",
+  "topic": "scams",
+  "category": "scams",
+  "featured": true,
+  "title": "Fake Bank Alerts and OTP Scams: How to Stay Safe",
+  "summary": "Scammers send fake debit alerts and urgent messages to steal your OTP, PIN or BVN. Learn the red flags and the safe response.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Many Nigerians have received a text or call that looks like it is from their bank: a debit you didn’t make, an account about to be blocked, or a “new BVN update”. The aim is simple: to make you panic and give away an OTP, PIN, password or BVN."
+   },
+   {
+    "t": "h",
+    "x": "How the trick works"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Fear first",
+      "x": "A fake debit alert makes you worry about your money."
+     },
+     {
+      "b": "A deadline",
+      "x": "“Your account will be blocked in 30 minutes” stops you from thinking."
+     },
+     {
+      "b": "A way to ‘fix it’",
+      "x": "A link or phone number that leads to the scammer."
+     },
+     {
+      "b": "A request for secrets",
+      "x": "They ask for your OTP, PIN, BVN or card details."
+     }
+    ]
+   },
+   {
+    "t": "example",
+    "title": "Example: the fake debit SMS",
+    "lines": [
+     "“ALERT: ₦150,000 debit on your account. Not you? Click bit.ly/secure-acct and confirm your BVN and OTP within 30 minutes.”",
+     "Red flags: a shortened link, a deadline, and a request for an OTP and BVN."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "What to do instead"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "x": "Don’t click the link or call the number in the message."
+     },
+     {
+      "x": "Open your bank’s official app or call the number printed on your card."
+     },
+     {
+      "x": "Never share an OTP, PIN or password with anyone, including “bank staff”."
+     },
+     {
+      "x": "If you already shared details, call your bank immediately to block your card or account."
+     },
+     {
+      "x": "Keep screenshots and report the scam to your bank."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "x": "Remember: a real bank will never ask you for your OTP or PIN. If you aren’t sure, pause and check through an official channel."
+   }
+  ],
+  "date": "2026-11-12",
+  "datePrecision": "day",
+  "author": "CloudSentinel Technologies",
+  "source": "cloudsentinel-2026",
+  "readMinutes": 2
+ },
+ {
+  "id": "loan-apps",
+  "topic": "scams",
+  "category": "scams",
+  "featured": false,
+  "title": "Loan Apps: Borrow Without Being Exploited",
+  "summary": "Some loan apps demand access to your contacts and photos and use them to pressure borrowers. Here is how to protect yourself.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Quick-loan apps can be useful, but some operate unfairly. Warning signs include very high fees, hidden charges and requests for broad access to your phone."
+   },
+   {
+    "t": "h",
+    "x": "Red flags"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "x": "Demands access to your contacts, photos or SMS before lending."
+     },
+     {
+      "x": "Fees or charges that are unclear until after you accept."
+     },
+     {
+      "x": "Threats or shaming messages to you or your contacts."
+     },
+     {
+      "x": "No clear company name, address or regulator information."
+     }
+    ]
+   },
+   {
+    "t": "h",
+    "x": "Safer choices"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "x": "Use lenders you can verify as properly registered and licensed. Check on the regulator’s official website."
+     },
+     {
+      "x": "Read the full cost, including interest and fees, before you accept."
+     },
+     {
+      "x": "Deny permissions that aren’t needed to lend."
+     },
+     {
+      "x": "Borrow only what you can repay, and keep copies of all agreements."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "x": "If an app harasses you, take screenshots and report it to the app store and the relevant authorities. You are not alone, and being pressured is not your fault."
+   }
+  ],
+  "date": "2026-11-12",
+  "datePrecision": "day",
+  "author": "CloudSentinel Technologies",
+  "source": "cloudsentinel-2026",
+  "readMinutes": 2
+ },
+ {
+  "id": "whatsapp-takeover",
+  "topic": "social-media",
+  "category": "social-media",
+  "featured": false,
+  "title": "Protect Your WhatsApp from Account Takeover",
+  "summary": "Scammers trick people into sharing the 6-digit WhatsApp code, then use the account to ask friends for money. Here’s how to block them.",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "WhatsApp is the main way many of us talk to family, customers and friends. That makes it a valuable target. In a common trick, a scammer registers your number on their phone and asks you to “send back the code that was sent by mistake”. If you do, they control your account."
+   },
+   {
+    "t": "h",
+    "x": "How to stop it"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "b": "Never share the 6-digit code",
+      "x": "It is the key to your account."
+     },
+     {
+      "b": "Turn on two-step verification",
+      "x": "In WhatsApp settings, add a PIN that is required to register your number."
+     },
+     {
+      "b": "Check linked devices",
+      "x": "Remove devices you don’t recognise."
+     },
+     {
+      "b": "Limit who sees your details",
+      "x": "Review privacy settings for your photo, about and last seen."
+     }
+    ]
+   },
+   {
+    "t": "example",
+    "title": "Example: the “mistaken code”",
+    "lines": [
+     "A message from a contact says: “I sent you a code by mistake, please send it back.” The contact’s account was already hijacked, and they are targeting you next."
+    ]
+   },
+   {
+    "t": "h",
+    "x": "If you’re locked out"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "x": "Re-register your number to get back in, if you can."
+     },
+     {
+      "x": "Tell friends and family by another channel not to send money."
+     },
+     {
+      "x": "Contact WhatsApp support through the app’s help section."
+     },
+     {
+      "x": "Check your bank and email accounts for suspicious activity."
+     }
+    ]
+   }
+  ],
+  "date": "2026-11-12",
+  "datePrecision": "day",
+  "author": "CloudSentinel Technologies",
+  "source": "cloudsentinel-2026",
+  "readMinutes": 2
+ }
+]

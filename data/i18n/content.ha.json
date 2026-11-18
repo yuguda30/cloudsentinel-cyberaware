@@ -1,0 +1,333 @@
+{
+ "topics": {
+  "intro": {
+   "title": "Gabatarwa ga Tsaron Yanar Gizo",
+   "summary": "Menene tsaron yanar gizo, me ya sa yake shafar kowa, da ɗabi'u masu sauƙi da ke hana yawancin hare-hare.",
+   "takeaways": [
+    "Kowa yana iya zama abin kai hari",
+    "Yawancin hare-hare suna yaudarar mutane ne, ba na'ura ba",
+    "Ƙananan ɗabi'u suna hana yawancin hare-hare"
+   ]
+  },
+  "passwords": {
+   "title": "Tsaron Kalmar Sirri",
+   "summary": "Ƙirƙiri kalmomin sirri masu ƙarfi da na musamman, yi amfani da mai kula da kalmomin sirri kuma kunna tabbatarwa mai matakai biyu.",
+   "takeaways": [
+    "Doguwa kuma ta musamman ta fi gajeriyar mai sarƙaƙiya",
+    "Kada ɓarkewar bayanai a shafi ɗaya ta buɗe duka asusunka",
+    "2FA ita ce tsaronka. Kada ka raba lambobinta"
+   ]
+  },
+  "phishing": {
+   "title": "Saƙon Bogi da Tsaron Imel",
+   "summary": "Gane saƙonnin imel, SMS da mahaɗa na bogi, kuma ka san abin da za ka yi idan ka taɓa.",
+   "takeaways": [
+    "Gaggawa + mahaɗa + neman sirri alama ce ta haɗari",
+    "Je manhajar hukuma, kada ka yi amfani da mahaɗar",
+    "Idan ka taɓa, canja kalmomin sirri ka gaya wa bankinka"
+   ]
+  },
+  "social-engineering": {
+   "title": "Yaudarar Zamantakewa",
+   "summary": "Yadda maharan ke amfani da amana, tsoro da gaggawa, da yadda za ka kwantar da hankalinka.",
+   "takeaways": [
+    "Maharan suna niyyar zuciya, ba na'ura ba",
+    "Matsin lamba da sirri alamun gargaɗi ne",
+    "Tabbatar ta wata hanya dabam da ka amince da ita"
+   ]
+  },
+  "scams": {
+   "title": "Damfara ta Yanar Gizo da Rigakafi",
+   "summary": "Gane zuba jari na bogi, damfarar kuɗin gaba, shagunan bogi, manhajojin rance da damfarar soyayya.",
+   "takeaways": [
+    "Gaggawa + alƙawarin kuɗi cikin sauƙi gargaɗi ne",
+    "Kada ka biya kuɗi don karɓar wani abu",
+    "Ka kai rahoto da wuri. Gaggawa na iya ceton kuɗinka"
+   ]
+  },
+  "mobile": {
+   "title": "Tsaron Na'urar Waya",
+   "summary": "Kare wayarka da kullewa, sabuntawa, manhajoji masu aminci da izini masu hankali.",
+   "takeaways": [
+    "Wayarka rumbu ce. Ka kulle ta",
+    "Ƙarancin izini yana nufin ƙarancin haɗari",
+    "Rasa sigina kwatsam na iya zama alamar sauya SIM"
+   ]
+  },
+  "browsing": {
+   "title": "Tsaron Intanet da Burauza",
+   "summary": "Yi bincike lafiya: duba adireshi, guji zazzagewa mai haɗari kuma ka fahimci ainihin ma'anar HTTPS.",
+   "takeaways": [
+    "Shafin gaske shi ne abin da ke gaban slash ɗaya na farko",
+    "HTTPS = an ɓoye hanya, ba lallai gaskiya ba",
+    "Tallace-tallace masu tsoratarwa yawanci damfara ne"
+   ]
+  },
+  "social-media": {
+   "title": "Tsaron Shafukan Sada Zumunta",
+   "summary": "Kulle asusunka, raba kaɗan kuma ka guji satar asusu a Facebook, Instagram, WhatsApp da sauransu.",
+   "takeaways": [
+    "Ana iya amfani da asusunka wajen damfarar abokanka",
+    "Raba kaɗan, kare da yawa",
+    "Kada ka taɓa raba lambobin tabbatarwa"
+   ]
+  },
+  "privacy": {
+   "title": "Sirrin Bayanai da Kariya",
+   "summary": "Fahimci bayananka na sirri, haƙƙoƙinka da yadda za ka raba mafi ƙaranci da ake buƙata.",
+   "takeaways": [
+    "Bayananka suna da daraja. Ka raba da niyya",
+    "Tambayi dalilin da ake buƙata da yadda za a yi amfani da shi",
+    "Doka tana ba ka haƙƙoƙi. Ka koye su"
+   ]
+  },
+  "malware": {
+   "title": "Ransomware da Malware",
+   "summary": "Menene software mai cutarwa, yadda take yaɗuwa da yadda ajiyar kwafi ke kayar da ransomware.",
+   "takeaways": [
+    "Yawancin malware tana zuwa ta dabara, ba sihiri ba",
+    "Ajiyar kwafi ita ce amsa mafi kyau ga ransomware",
+    "Idan an kamu, cire daga intanet ka nemi taimako"
+   ]
+  },
+  "network": {
+   "title": "Tsaron Hanyar Sadarwa",
+   "summary": "Kare na'urar sadarwa (router), fahimci firewall da yadda ake amfani da VPN cikin hikima.",
+   "takeaways": [
+    "Abubuwan da aka riga aka saita sanannu ne. Ka canja su",
+    "Firewall tana toshewa, VPN tana ɓoyewa",
+    "Raba baƙi da na'urorinka na asali"
+   ]
+  },
+  "wifi": {
+   "title": "Tsaron Wi-Fi",
+   "summary": "Zauna lafiya a Wi-Fi na jama'a da na gida, kuma ka guji hotspot na bogi.",
+   "takeaways": [
+    "Ba kowanne “Free WiFi” ne na gaske ba",
+    "Yi amfani da data ta waya don abubuwa masu muhimmanci",
+    "Kalmar sirri mai ƙarfi a gida"
+   ]
+  },
+  "identity-theft": {
+   "title": "Rigakafin Satar Asali",
+   "summary": "Kare katin shaida da bayanan sirri, gane alamun farko kuma ka ɗauki mataki da sauri.",
+   "takeaways": [
+    "Bayanan shaidarka suna da daraja",
+    "Duba bayanan banki da sanarwa akai-akai",
+    "Ɗauki mataki da sauri kuma ka riƙe bayanai"
+   ]
+  },
+  "students": {
+   "title": "Tsaron Yanar Gizo ga Ɗalibai",
+   "summary": "Ɗabi'u masu aminci ga tashar makaranta, kwamfutocin haɗin gwiwa, sada zumunta da karatu ta intanet.",
+   "takeaways": [
+    "Imel ɗin makarantarka mabuɗi ne na asali",
+    "Guraben karatu na gaske ba sa cajin masu nema",
+    "Fita daga na'urorin haɗin gwiwa"
+   ]
+  },
+  "business": {
+   "title": "Tsaron Yanar Gizo ga Ƙananan Kasuwanci",
+   "summary": "Matakai masu sauƙi, marasa tsada ga kasuwanci don kare asusu, biyan kuɗi, abokan ciniki da bayanai.",
+   "takeaways": [
+    "Tushe yana hana yawancin hare-hare",
+    "Tabbatar da canjin bayanan banki ta waya",
+    "Ajiyar kwafi da kula da shiga suna kare kasuwanci"
+   ]
+  },
+  "organisations": {
+   "title": "Wayar da Kai kan Tsaron Yanar Gizo ga Ƙungiyoyi",
+   "summary": "Gina al'adar tsaro: horo, bayar da rahoto, ƙa'idojin shiga da shirin magance hari.",
+   "takeaways": [
+    "Mutane suna cikin tsaro",
+    "Sauƙaƙa bayar da rahoto lafiya",
+    "Yi atisayen shirin magance hari"
+   ]
+  },
+  "payments": {
+   "title": "Biyan Kuɗi na Dijital Lafiya",
+   "summary": "Kare katunanka, tura kuɗi, mobile money da amfani da POS ko ATM.",
+   "takeaways": [
+    "Kada a taɓa raba PIN, OTP ko CVV",
+    "Tabbatar da asusu kafin tura kuɗi",
+    "Ka kai rahoton cire kuɗi mai tuhuma nan take"
+   ]
+  },
+  "ai": {
+   "title": "Basirar Wucin Gadi da Tsaron Yanar Gizo",
+   "summary": "Yadda AI ke taimaka wa masu laifi da masu tsaro, deepfake, kwaikwayon murya da amfani da kayan AI lafiya.",
+   "takeaways": [
+    "AI tana sa damfara ta fi ƙarfin lallashi",
+    "Tabbatar da buƙatun murya da bidiyo na gaggawa",
+    "Kada ka saka sirri a kayan AI"
+   ]
+  }
+ },
+ "tips": {
+  "tip-001": {
+   "text": "Ka dakata kafin ka taɓa mahaɗa. Gaggawa ita ce makamin mai damfara."
+  },
+  "tip-002": {
+   "text": "Sanya sabuntawa. Suna gyara giɓin tsaro da maharan ke amfani da su."
+  },
+  "tip-005": {
+   "text": "Yi amfani da doguwar jimlar kalmomi marasa alaƙa maimakon gajeriyar kalmar sirri mai sarƙaƙiya."
+  },
+  "tip-008": {
+   "text": "Kada ka taɓa raba lambar OTP da kowa, ko da ya ce daga bankinka yake."
+  },
+  "tip-009": {
+   "text": "Kada ka amince da mahaɗa a cikin saƙo. Buɗe manhajar hukuma ko ka rubuta adireshin da kanka."
+  },
+  "tip-012": {
+   "text": "Bankuna na gaske ba sa neman PIN, OTP ko kalmar sirrinka ta SMS, kira ko taɗi."
+  },
+  "tip-013": {
+   "text": "Yi amfani da makullin allo mai ƙarfi kuma ka kunna find-my-device."
+  },
+  "tip-015": {
+   "text": "Idan wayarka ta rasa duk sigina kwatsam, kira kamfanin sadarwarka. Yana iya zama sauya SIM."
+  },
+  "tip-017": {
+   "text": "Kunna tabbatarwa mai matakai biyu a WhatsApp kuma kada ka raba lambarsa mai lambobi 6."
+  },
+  "tip-019": {
+   "text": "Idan aboki ya nemi kuɗi kwatsam, kira shi da farko. Wataƙila an sace asusunsa."
+  },
+  "tip-021": {
+   "text": "Yi amfani da manhajar bankinka ta hukuma ko lambar da ke kan katinka. Ba lambobin da ke cikin saƙo ba."
+  },
+  "tip-022": {
+   "text": "Duba sunan mai karɓa kafin ka tabbatar da tura kuɗi."
+  },
+  "tip-025": {
+   "text": "Raba bayanan sirri da ake buƙata kawai."
+  },
+  "tip-026": {
+   "text": "Rubuta manufa da kwanan wata a jikin kwafin katin shaidarka."
+  },
+  "tip-029": {
+   "text": "Duba adireshin shafin kafin ka rubuta kalmar sirri. Shafin gaske yana gaban slash ɗaya na farko."
+  },
+  "tip-030": {
+   "text": "Tallace-tallace masu tsoratarwa (“wayarka ta kamu”) kusan koyaushe damfara ne. Rufe su."
+  },
+  "tip-033": {
+   "text": "Idan ya yi alƙawarin riba mai yawa ba tare da haɗari ba, damfara ce."
+  },
+  "tip-034": {
+   "text": "Kada ka taɓa biyan kuɗi don karɓar kyauta, aiki, rance ko guraben karatu."
+  }
+ },
+ "questions": {
+  "q-intro-05": {
+   "q": "Ka ga saƙo mai tsoratarwa game da asusunka. Mene ne mataki na farko mafi kyau?",
+   "options": [
+    "Taɓa mahaɗar da sauri kafin lokaci ya kure",
+    "Dakata, sannan ka tabbatar ta manhajar hukuma ko shafin da ka buɗe da kanka",
+    "Tura wa duk lambobinka"
+   ],
+   "explanation": "Maharan suna dogara da gaggawa. Rage gudu ka tabbatar ta hanyar da ka amince da ita."
+  },
+  "q-pw-03": {
+   "q": "Me ya sa yin amfani da kalmar sirri ɗaya a asusu da yawa yake da haɗari?",
+   "options": [
+    "Yana sa kalmar sirri ta yi tsayi",
+    "Idan an keta shafi ɗaya, maharan na iya gwada ta a sauran asusunka",
+    "Ba shi da haɗari"
+   ],
+   "explanation": "Ana gwada kalmomin sirri da aka fallasa a wasu shafuka ta atomatik. Kalmomi na musamman suna rage lalacewa."
+  },
+  "q-pw-05": {
+   "q": "Wani da ke ikirarin ma'aikacin taimako ya nemi lambar sau ɗaya da aka aiko maka. Me ya kamata ka yi?",
+   "options": [
+    "Ka ba shi don ka tabbatar kai ne",
+    "Ka ƙi. Taimako na gaske ba ya buƙatar lambar sau ɗayanka",
+    "Ka aika rabin lambar"
+   ],
+   "explanation": "Lambar sau ɗaya mabuɗin asusunka ce. Duk wanda ya nemi ta yana ƙoƙarin ƙwace asusunka."
+  },
+  "q-ph-01": {
+   "q": "Saƙo ya ce: “Za a toshe asusunka cikin minti 30. Tabbatar da BVN da OTP a bit.ly/xyz.” Mene ne amsa mafi kyau?",
+   "options": [
+    "Taɓa mahaɗar ka tabbatar da sauri",
+    "Yi watsi da mahaɗar ka tuntuɓi bankinka ta manhajarsa ta hukuma ko lambarsa",
+    "Amsa da BVN kawai"
+   ],
+   "explanation": "Bankuna ba sa neman OTP ko cikakkun bayanai ta mahaɗar SMS. Tuntuɓi banki ta hanyoyin hukuma.",
+   "scenario": null
+  },
+  "q-ph-04": {
+   "q": "Ka taɓa mahaɗa mai tuhuma kuma ka rubuta kalmar sirrinka. Me ya kamata ka fara yi?",
+   "options": [
+    "Ba zan yi komai ba",
+    "Canja kalmar sirrin nan take a shafin gaske, kunna 2FA ka duba ayyukan asusunka",
+    "Share asusun imel ɗinka"
+   ],
+   "explanation": "Yi gaggawa: canja kalmar sirri (da duk inda ka sake amfani da ita), kunna 2FA ka duba ayyukan kwanan nan."
+  },
+  "q-se-02": {
+   "q": "Wani mai kira ya ce yana daga kamfanin sadarwarka kuma yana buƙatar PIN ɗinka “don gyara matsala”. Me ya kamata ka yi?",
+   "options": [
+    "Ka ba shi, yana magana kamar ƙwararre",
+    "Ka katse kira ka kira lambar hukuma da kanka",
+    "Ka ce ya aiko maka mahaɗa"
+   ],
+   "explanation": "Kada ka taɓa raba PIN ko lambobi a kiran da aka yi maka. Kira baya ta lambar da ka samu da kanka."
+  },
+  "q-sc-02": {
+   "q": "Ka sami saƙo cewa ka ci caca da ba ka shiga ba. Suna neman “kuɗin fitar da kyauta”. Menene wannan?",
+   "options": [
+    "Damfarar kuɗin gaba",
+    "Kyauta ta gaske",
+    "Mayar da kuɗi daga banki"
+   ],
+   "explanation": "Idan dole ka biya kafin ka karɓi kyauta, damfara ce."
+  },
+  "q-sc-07": {
+   "q": "Tallan aiki yana neman ka biya kuɗi don tabbatar da matsayin. Mene ne mataki mafi kyau?",
+   "options": [
+    "Ka biya da sauri kafin wasu",
+    "Ka ƙi. Ma'aikata na gaske ba sa cajin masu neman aiki",
+    "Ka ce aboki ya biya ma"
+   ],
+   "explanation": "Neman kuɗi don aiki damfarar ɗaukar aiki ce da aka saba gani."
+  },
+  "q-mo-04": {
+   "q": "Menene damfarar sauya SIM?",
+   "options": [
+    "Mai laifi yana mayar da lambarka SIM ɗinsa don karɓar kiranka da lambobinka",
+    "Canja kamfanin sadarwa",
+    "Siyan SIM na biyu"
+   ],
+   "explanation": "Da zarar suna da ikon lambarka, za su iya shiga OTP ɗinka. Tuntuɓi kamfanin sadarwa nan take idan SIM ɗinka ya daina aiki kwatsam."
+  },
+  "q-sm-04": {
+   "q": "WhatsApp ya aiko maka lambar tabbatarwa mai lambobi 6 da ba ka nema ba. Me wannan yake nufi?",
+   "options": [
+    "Wani yana iya ƙoƙarin yin rajistar lambarka. Kada ka raba lambar",
+    "Ka ci kyauta",
+    "Dole ka amsa da lambar"
+   ],
+   "explanation": "Raba ta yana ba maharin damar ƙwace WhatsApp ɗinka. Kunna tabbatarwa mai matakai biyu."
+  },
+  "q-pm-01": {
+   "q": "Wa zai iya neman PIN ko OTP na katinka bisa doka?",
+   "options": [
+    "Babu kowa. Kada a raba su",
+    "Banki ta waya",
+    "Ma'aikacin shago"
+   ],
+   "explanation": "PIN da OTP naka ne kai kaɗai."
+  },
+  "q-pm-03": {
+   "q": "Ka sami sanarwar cire kuɗi da ba ka yi ba. Me ya kamata ka fara yi?",
+   "options": [
+    "Tuntuɓi bankinka nan take ta hanyoyin hukuma ka toshe katin",
+    "Jira mako ɗaya",
+    "Amsa SMS ɗin"
+   ],
+   "explanation": "Gaggawa na da muhimmanci. Yi amfani da manhajar banki ta hukuma ko lambarsa."
+  }
+ }
+}

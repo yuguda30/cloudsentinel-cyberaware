@@ -1,0 +1,85 @@
+[
+ {
+  "q": "Gịnị bụ phishing?",
+  "a": "Phishing bụ mgbe ndị omekome na-eme ka ha bụ ụlọ akụ, ụlọ ọrụ ma ọ bụ onye ị maara iji duhie gị ikpughe ozi ma ọ bụ pịa ihe ọjọọ. Ọ na-abata site na email, SMS, oku na ozi mgbasa ozi mmekọrịta. Ejila njikọ dị n'ozi. Mepee ngwa gọọmentị n'onwe gị.",
+  "keywords": [
+   "phishing",
+   "ozi ụgha",
+   "aghụghọ",
+   "njikọ",
+   "link"
+  ]
+ },
+ {
+  "q": "Kedu ka m ga-esi mepụta paswọọdụ siri ike?",
+  "a": "Jiri ahịrịokwu ogologo nke okwu na-enweghị njikọ, opekata mpe mkpụrụedemede 12, ma jiri paswọọdụ pụrụ iche maka akaụntụ ọ bụla. Zere aha, ụbọchị ọmụmụ na “123456”. Onye njikwa paswọọdụ nwere ike inyere gị aka, ma gbanye nkwenye nzọụkwụ abụọ (2FA).",
+  "keywords": [
+   "paswọọdụ",
+   "password",
+   "okwuntughe",
+   "siri ike",
+   "2fa"
+  ]
+ },
+ {
+  "q": "Ụlọ akụ ọ ga-arịọ OTP ma ọ bụ PIN m?",
+  "a": "Mba. Ụlọ akụ n'ezie anaghị arịọ PIN, OTP, paswọọdụ ma ọ bụ nkọwa kaadị zuru ezu site n'oku, SMS ma ọ bụ chat. Ọ bụrụ na onye arịọ, kwụsị ma kpọọ ụlọ akụ gị site na nọmba dị na kaadị gị ma ọ bụ ngwa ya gọọmentị.",
+  "keywords": [
+   "otp",
+   "pin",
+   "ụlọ akụ",
+   "bvn",
+   "koodu"
+  ]
+ },
+ {
+  "q": "Gịnị bụ aghụghọ mgbanwe SIM?",
+  "a": "Mgbanwe SIM bụ mgbe onye omekome rafuru netwọk ka ọ kwaga nọmba gị na SIM ya. Ọ nwere ike ịnata oku na OTP gị. Ọ bụrụ na ekwentị gị furu netwọk na mberede, kpọtụrụ onye netwọk gị na ụlọ akụ gị ozugbo, ma chebe SIM gị na PIN.",
+  "keywords": [
+   "mgbanwe sim",
+   "sim swap",
+   "netwọk",
+   "nọmba"
+  ]
+ },
+ {
+  "q": "Kedu ka m ga-esi chebe WhatsApp m?",
+  "a": "Gbanye nkwenye nzọụkwụ abụọ na ntọala WhatsApp, ekekọrịtala koodu ndebanye aha nke mkpụrụ ọgụgụ 6, lelee ngwaọrụ ejikọtara ma lelee ntọala nzuzo. Ọ bụrụ na enyi arịọ ego na mberede, kpọọ ya mbụ.",
+  "keywords": [
+   "whatsapp",
+   "izu akaụntụ",
+   "koodu nkwenye"
+  ]
+ },
+ {
+  "q": "Kedu ka m ga-esi mata itinye ego ụgha?",
+  "a": "Kpachara anya n'nkwa uru dị elu, nrụgide ịtinye ego ngwa ngwa, na ụgwọ ọrụ maka ịkpọbata ndị ọzọ. Lelee na ụlọ ọrụ na ikikere ya bụ ihe n'ezie na weebụsaịtị onye na-achịkwa, ma kpọtụrụ onye ị kwere ntụkwasị obi tupu izipu ego.",
+  "keywords": [
+   "itinye ego",
+   "ponzi",
+   "uru",
+   "aghụghọ"
+  ]
+ },
+ {
+  "q": "Wi-Fi ọha na eze ọ dị mma maka ụlọ akụ?",
+  "a": "Ọ dị mma izere ụlọ akụ na Wi-Fi ọha na eze. Jiri data ekwentị. Ọ bụrụ na ị ga-eji Wi-Fi ọha na eze, chọpụta aha netwọk ziri ezi site n'aka ndị ọrụ ma jiri VPN a pụrụ ịtụkwasị obi.",
+  "keywords": [
+   "wifi",
+   "ọha na eze",
+   "hotspot",
+   "vpn"
+  ]
+ },
+ {
+  "q": "Gịnị ka m ga-eme ma ọ bụrụ na e duhiere m ma ọ bụ e kpaghara m?",
+  "a": "Kpọtụrụ ụlọ akụ gị ozugbo ma ọ bụrụ na ego metụtara, gbanwee paswọọdụ, gbanye 2FA, debe foto ozi ma kọọrọ ikpo okwu ahụ ebe ọ mere. Chatbot a enweghị ike ijikwa mwakpo na-eme ugbu a. Kpọtụrụ ụlọ akụ gị na ndị ọchịchị.",
+  "keywords": [
+   "e duhiere m",
+   "kpaghara",
+   "e zuru akaụntụ m",
+   "akụkọ",
+   "hacked"
+  ]
+ }
+]

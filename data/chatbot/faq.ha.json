@@ -1,0 +1,84 @@
+[
+ {
+  "q": "Menene phishing (saƙon bogi)?",
+  "a": "Phishing shi ne lokacin da masu laifi suka yi kamar banki ne, kamfani ko wanda ka sani, don su yaudare ka ka bayyana bayanai ko ka taɓa mahaɗa mai cutarwa. Yana zuwa ta imel, SMS, kira da saƙonnin sada zumunta. Kada ka yi amfani da mahaɗar da ke cikin saƙon. Buɗe manhajar hukuma da kanka.",
+  "keywords": [
+   "phishing",
+   "saƙon bogi",
+   "damfara",
+   "mahaɗa",
+   "link"
+  ]
+ },
+ {
+  "q": "Yaya zan ƙirƙiri kalmar sirri mai ƙarfi?",
+  "a": "Yi amfani da doguwar jimlar kalmomi marasa alaƙa, aƙalla haruffa 12, kuma ka yi amfani da kalmar sirri ta musamman ga kowane asusu. Ka guji sunaye, ranar haihuwa da “123456”. Mai kula da kalmomin sirri zai taimaka maka, sannan ka kunna tabbatarwa mai matakai biyu (2FA).",
+  "keywords": [
+   "kalmar sirri",
+   "password",
+   "ƙarfi",
+   "2fa"
+  ]
+ },
+ {
+  "q": "Banki zai nemi OTP ko PIN na?",
+  "a": "A'a. Banki na gaske ba ya neman PIN, OTP, kalmar sirri ko cikakken bayanin katinka ta kira, SMS ko taɗi. Idan wani ya nema, ka daina magana ka kira bankinka ta lambar da ke kan katinka ko ta manhajarsa ta hukuma.",
+  "keywords": [
+   "otp",
+   "pin",
+   "banki",
+   "lambar sirri",
+   "bvn"
+  ]
+ },
+ {
+  "q": "Menene damfarar sauya SIM?",
+  "a": "Sauya SIM shi ne lokacin da mai laifi ya shawo kan kamfanin sadarwa ya mayar da lambarka SIM ɗinsa. Daga nan zai iya karɓar kiranka da OTP. Idan wayarka ta rasa sigina kwatsam, kira kamfanin sadarwarka da bankinka nan take, kuma ka kare SIM ɗinka da PIN.",
+  "keywords": [
+   "sauya sim",
+   "sim swap",
+   "sigina",
+   "lamba"
+  ]
+ },
+ {
+  "q": "Yaya zan kare WhatsApp na?",
+  "a": "Kunna tabbatarwa mai matakai biyu a saitunan WhatsApp, kada ka taɓa raba lambar rajista mai lambobi 6, ka duba na'urorin da aka haɗa ka duba saitunan sirri. Idan aboki ya nemi kuɗi kwatsam, kira shi da farko.",
+  "keywords": [
+   "whatsapp",
+   "satar asusu",
+   "lambar tabbatarwa"
+  ]
+ },
+ {
+  "q": "Yaya zan gane zuba jari na bogi?",
+  "a": "Ka yi taka-tsantsan da alƙawarin riba mai yawa, matsa lamba don ka zuba jari da sauri, da lada don kawo wasu. Ka tabbatar da kamfanin da lasisinsa a shafin hukumar da ke kula, kuma ka tuntuɓi wanda ka amince da shi kafin ka tura kuɗi.",
+  "keywords": [
+   "zuba jari",
+   "ponzi",
+   "riba",
+   "damfara"
+  ]
+ },
+ {
+  "q": "Shin Wi-Fi na jama'a lafiya ne don banki?",
+  "a": "Gara ka guji banki a Wi-Fi na jama'a. Yi amfani da data ta waya. Idan dole ka yi amfani da Wi-Fi na jama'a, ka tabbatar da sunan hanyar sadarwa daga ma'aikata ka yi amfani da VPN mai inganci.",
+  "keywords": [
+   "wifi",
+   "jama'a",
+   "hotspot",
+   "vpn"
+  ]
+ },
+ {
+  "q": "Me zan yi idan an damfare ni ko an yi min kutse?",
+  "a": "Ka tuntuɓi bankinka nan take idan kuɗi ya shafa, ka canja kalmomin sirri, ka kunna 2FA, ka riƙe hotunan saƙonni ka kai rahoto ga dandalin da abin ya faru. Wannan mai taɗi ba zai iya magance hari kai tsaye ba. Ka tuntuɓi bankinka da hukumomi.",
+  "keywords": [
+   "an damfare ni",
+   "kutse",
+   "an sace asusuna",
+   "rahoto",
+   "hacked"
+  ]
+ }
+]

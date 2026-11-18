@@ -1,0 +1,29 @@
+{
+ "note": "AI-drafted translations. Have them reviewed by native speakers before relying on them. Set reviewedByNativeSpeaker to true after review.",
+ "languages": {
+  "ha": {
+   "ui": "338/355",
+   "topics": 18,
+   "tips": 18,
+   "questions": 12,
+   "faq": 8,
+   "reviewedByNativeSpeaker": false
+  },
+  "ig": {
+   "ui": "338/355",
+   "topics": 18,
+   "tips": 18,
+   "questions": 12,
+   "faq": 8,
+   "reviewedByNativeSpeaker": false
+  },
+  "yo": {
+   "ui": "338/355",
+   "topics": 18,
+   "tips": 18,
+   "questions": 12,
+   "faq": 8,
+   "reviewedByNativeSpeaker": false
+  }
+ }
+}

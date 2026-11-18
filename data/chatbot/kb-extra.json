@@ -1,0 +1,240 @@
+[
+ {
+  "q": "what is sim swap fraud",
+  "a": "SIM swap fraud is when a criminal convinces a mobile network to move your number to a SIM they control. They can then receive your calls and OTP codes. If your phone suddenly loses all signal, contact your network provider and your bank immediately, and protect your SIM with a PIN.",
+  "keywords": [
+   "sim swap",
+   "lost signal",
+   "number hijack"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is an otp and who can ask for it",
+  "a": "An OTP (one-time password) is a short code that approves a login or payment. It is for you alone: no bank, shop, agent or support person needs it from you. Anyone asking for it is trying to take over your account.",
+  "keywords": [
+   "one time password",
+   "code",
+   "verification code"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "will my bank ask for my otp or pin",
+  "a": "No. A real bank never asks for your PIN, OTP, password or full card details by call, SMS or chat. If someone asks, end the contact and call your bank using the number on your card or the official app.",
+  "keywords": [
+   "bank",
+   "pin",
+   "otp"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "is it safe to share my bvn",
+  "a": "Share your BVN only with your bank or institutions that have a genuine, regulated reason to ask. Never give it to people who contact you unexpectedly, and don’t post it online. If you shared it with a suspicious party, tell your bank.",
+  "keywords": [
+   "bvn",
+   "bank verification number"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "is it safe to share my nin",
+  "a": "Share your NIN only when an organisation has a real, legitimate need and you can verify who they are. Don’t post it or photograph it for strangers. Ask why it is needed and how it will be used.",
+  "keywords": [
+   "nin",
+   "national identity number",
+   "identity number"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is a fake bank alert",
+  "a": "A fake bank alert is a message that pretends to be from your bank about a debit, a blocked account or a “verification”. Its goal is to scare you into clicking a link or giving your OTP, PIN or BVN. Open your bank’s official app or call the number on your card instead.",
+  "keywords": [
+   "debit alert",
+   "bank sms",
+   "fake alert"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what should i do if i shared my otp",
+  "a": "Contact your bank immediately through its official app or the number on your card and ask to block the card or account. Change your passwords, keep screenshots of the messages and report the scam. Speed matters.",
+  "keywords": [
+   "gave otp",
+   "shared otp",
+   "sent otp"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "how do i protect my whatsapp account",
+  "a": "Turn on two-step verification in WhatsApp settings, never share the 6-digit registration code, review linked devices and check your privacy settings. If a friend suddenly asks for money, call them first.",
+  "keywords": [
+   "whatsapp",
+   "whatsapp hacked",
+   "whatsapp code"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is a loan app scam",
+  "a": "Some loan apps charge hidden fees and demand access to your contacts and photos to pressure borrowers. Use licensed lenders, read the full cost before accepting and deny permissions that are not needed.",
+  "keywords": [
+   "loan app",
+   "quick loan",
+   "loan harassment"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "how do i spot a fake investment",
+  "a": "Be suspicious of guaranteed high returns, pressure to invest quickly, and rewards for recruiting others. Check that the company and its licence are real on the regulator’s official website, and talk to someone you trust before sending money.",
+  "keywords": [
+   "ponzi",
+   "investment scam",
+   "double your money"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "is a job that asks for a fee legitimate",
+  "a": "No. Genuine employers do not charge applicants a fee to be hired. Requests for registration, training or placement fees are a common job scam.",
+  "keywords": [
+   "job scam",
+   "job fee",
+   "fake job"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is a deepfake",
+  "a": "A deepfake is audio, images or video created or edited by AI to imitate a real person. Criminals use them for impersonation scams. Verify urgent requests by calling the person on a number you already have.",
+  "keywords": [
+   "voice clone",
+   "ai scam",
+   "fake video"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "is it safe to use public wifi for banking",
+  "a": "It is best to avoid banking on public Wi-Fi. Use mobile data instead, and if you must use public Wi-Fi, confirm the exact network name with staff and use a reputable VPN.",
+  "keywords": [
+   "public wifi",
+   "free wifi",
+   "hotspot"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is two factor authentication",
+  "a": "Two-factor authentication (2FA) asks for a second proof, such as a code from an authenticator app, in addition to your password. It protects you if your password is stolen. Never share the codes with anyone.",
+  "keywords": [
+   "2fa",
+   "mfa",
+   "authenticator"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is a password manager",
+  "a": "A password manager is an app that creates and stores a different strong password for every account, protected by one master passphrase. It helps you avoid reusing passwords.",
+  "keywords": [
+   "password vault",
+   "store passwords"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what should i do if my account was hacked",
+  "a": "Try to regain access using the official recovery option, change the password (and anywhere you reused it), turn on 2FA, remove unknown devices and check for forwarding rules or changed recovery details. Tell your contacts not to trust requests sent from the account. This chatbot cannot help with live incidents; contact the service’s support and, where money is involved, your bank.",
+  "keywords": [
+   "account hacked",
+   "got hacked",
+   "compromised account"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "how do i report cybercrime",
+  "a": "Report to your bank first if money is involved, then to the platform where it happened, and to the relevant law-enforcement or regulator channels in your country. Look for their official websites and keep screenshots, receipts and message history as evidence.",
+  "keywords": [
+   "report scam",
+   "report fraud",
+   "where to report"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is the nigeria data protection act",
+  "a": "The Nigeria Data Protection Act 2023 sets rules for how organisations collect and use personal data and gives individuals rights over their data. For details, read the official guidance of the Nigeria Data Protection Commission.",
+  "keywords": [
+   "ndpa",
+   "ndpc",
+   "data protection law"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "how can i protect my children online",
+  "a": "Talk openly with children about online risks, use age-appropriate settings and parental controls, keep devices updated, review apps together and encourage them to tell you if something makes them uncomfortable.",
+  "keywords": [
+   "kids",
+   "child safety",
+   "parental control"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is a qr code scam",
+  "a": "Scammers place fake QR codes on posters, flyers or payment points that lead to fake login or payment pages. Check the address the code opens, don’t enter passwords after scanning a random code and verify payment codes with the business.",
+  "keywords": [
+   "qr scam",
+   "qr phishing",
+   "fake qr"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "how do i know if a website is safe",
+  "a": "Check that the address is exactly right and starts with https://, be wary of look-alike spellings, don’t trust a site just because it has a padlock, and look for independent reviews before paying.",
+  "keywords": [
+   "safe website",
+   "legit website",
+   "fake website"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "what is business email compromise",
+  "a": "Business email compromise is when criminals impersonate a boss or supplier by email to trick staff into paying money or sharing data. Always verify payment or bank-detail changes by phoning a known number.",
+  "keywords": [
+   "bec",
+   "invoice fraud",
+   "fake invoice"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "how do i back up my files",
+  "a": "Keep at least two copies of important files, one separate from your main device, such as an external drive kept disconnected or a trusted cloud backup, and test that you can restore them. Backups are your best defence against ransomware.",
+  "keywords": [
+   "backup",
+   "back up",
+   "restore files"
+  ],
+  "source": "cloudsentinel-2026"
+ },
+ {
+  "q": "is my phone being tracked or spied on",
+  "a": "Warning signs include unusual battery drain, unknown apps, strange permissions and unexpected data use. Keep your system updated, remove unknown apps and review permissions. Spyware is hard to confirm, so if you are at risk, seek help from a trusted professional.",
+  "keywords": [
+   "spyware",
+   "stalkerware",
+   "phone hacked"
+  ],
+  "source": "cloudsentinel-2026"
+ }
+]
